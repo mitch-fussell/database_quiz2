@@ -1,0 +1,38 @@
+FirstName,LastName,Position,Age,Birthdate,Height_m,Weight_kg,Height_ft_in,Weight_st_lb,Weight_lb
+Asenathi,NTLABAKANYE,Prop,26,15/04/1999,1.82,153,6 ft,24 st; 337.31 lb,337.31
+Boan,VENTER,Prop,28,12/04/1997,1.87,124,6 ft 2 in,19 st 7.37 lb; 273.37 lb,273.37
+Gerhard,STEENEKAMP,Prop,28,09/04/1997,1.91,128,6 ft 3 in,20 st 2.19 lb; 282.19 lb,282.19
+Ox,NCHÉ,Prop,30,23/07/1995,1.76,123,5 ft 9 in,19 st 5.17 lb; 271.17 lb,271.17
+Thomas DU,TOIT,Prop,30,05/05/1995,1.9,136,6 ft 3 in,21 st 5.83 lb; 299.83 lb,299.83
+Wilco,LOUW,Prop,31,20/07/1994,1.85,144,6 ft 1 in,22 st 9.47 lb; 317.47 lb,317.47
+Zach,PORTHEN,Prop,21,??/??/2004,1.89,124,6 ft 2 in,19 st 7.37 lb; 273.37 lb,273.37
+Bongi,MBONAMBI,Hooker,35,07/01/1991,1.75,118,5 ft 9 in,18 st 8.15 lb; 260.15 lb,260.15
+Johan,GROBBELAAR,Hooker,28,30/12/1997,1.83,105,6 ft,16 st; 231.49 lb,231.49
+Malcolm,MARX,Hooker,31,13/07/1994,1.89,117,6 ft 2 in,18 st 5.94 lb; 257.94 lb,257.94
+Ben-Jason,DIXON,Lock,27,29/04/1998,1.95,114,6 ft 5 in,17 st 13.33 lb; 251.33 lb,251.33
+Eben,ETZEBETH,Lock,34,29/10/1991,2.03,126,6 ft 8 in,19 st 11.78 lb; 277.78 lb,277.78
+Franco,MOSTERT,Lock,35,27/11/1990,1.98,112,6 ft 6 in,17 st 8.92 lb; 246.92 lb,246.92
+Jean,KLEYN,Lock,32,26/08/1993,2.03,123,6 ft 8 in,19 st 5.17 lb; 271.17 lb,271.17
+Lood DE,JAGER,Lock,33,17/12/1992,2.06,125,6 ft 9 in,19 st 9.58 lb; 275.58 lb,275.58
+Pieter-Steph DU,TOIT,Lock,33,20/08/1992,2.0,116,6 ft 7 in,18 st 3.74 lb; 255.74 lb,255.74
+RG,SNYMAN,Lock,31,29/01/1995,2.07,131,6 ft 9 in,20 st 8.81 lb; 288.81 lb,288.81
+Ruan,NORTJÉ,Lock,27,25/07/1998,2.0,113,6 ft 7 in,17 st 11.12 lb; 249.12 lb,249.12
+Jasper,WIESE,Back row,30,21/10/1995,1.89,122,6 ft 2 in,19 st 2.96 lb; 268.96 lb,268.96
+Kwagga,SMITH,Back row,32,11/06/1993,1.8,99,5 ft 11 in,15 st 8.26 lb; 218.26 lb,218.26
+Marco VAN,STADEN,Back row,30,25/08/1995,1.84,112,6 ft,17 st; 246.92 lb,246.92
+Siya,KOLISI,Back row,34,16/06/1991,1.89,104,6 ft 2 in,16 st 5.28 lb; 229.28 lb,229.28
+Cobus,REINACH,Scrum-half,36,07/02/1990,1.75,85,5 ft 9 in,13 st 5.39 lb; 187.39 lb,187.39
+Grant,WILLIAMS,Scrum-half,29,22/07/1996,1.74,80,5 ft 9 in,12 st 8.37 lb; 176.37 lb,176.37
+Morné VAN DEN,BERG,Scrum-half,28,24/10/1997,1.75,82,5 ft 9 in,12 st 12.78 lb; 180.78 lb,180.78
+Damian,WILLEMSE,Fly-half,27,07/05/1998,1.87,100,6 ft 2 in,15 st 10.46 lb; 220.46 lb,220.46
+Handré,POLLARD,Fly-half,32,11/03/1994,1.89,98,6 ft 2 in,15 st 6.05 lb; 216.05 lb,216.05
+Manie,LIBBOK,Fly-half,28,15/07/1997,1.84,80,6 ft,12 st; 176.37 lb,176.37
+Sacha,FEINBERG-MNGOMEZULU,Fly-half,24,22/02/2002,1.88,92,6 ft 2 in,14 st 6.83 lb; 202.83 lb,202.83
+André,ESTERHUIZEN,Centre,31,30/03/1994,1.93,115,6 ft 4 in,18 st 1.53 lb; 253.53 lb,253.53
+Damian DE,ALLENDE,Centre,34,25/11/1991,1.89,106,6 ft 2 in,16 st 9.69 lb; 233.69 lb,233.69
+Jesse,KRIEL,Centre,32,15/02/1994,1.86,98,6 ft 1 in,15 st 6.05 lb; 216.05 lb,216.05
+Canan,MOODIE,Winger,23,05/11/2002,1.91,94,6 ft 3 in,14 st 11.23 lb; 207.23 lb,207.23
+Cheslin,KOLBE,Winger,32,28/10/1993,1.71,77,5 ft 7 in,12 st 1.76 lb; 169.76 lb,169.76
+Edwill VAN DER,MERWE,Winger,29,12/04/1996,1.81,90,5 ft 11 in,14 st 2.42 lb; 198.42 lb,198.42
+Ethan,HOOKER,Winger,23,20/01/2003,1.93,100,6 ft 4 in,15 st 10.46 lb; 220.46 lb,220.46
+Kurt-Lee,ARENDSE,Winger,29,17/06/1996,1.76,82,5 ft 9 in,12 st 12.78 lb; 180.78 lb,180.78

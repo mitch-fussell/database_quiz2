@@ -1,0 +1,651 @@
+<div class="pas">
+	<h1 class="inbl">South Africa national rugby union team for 2025/2026</h1>
+	<img src="/img/logo/clubs/springboks.png" alt="logo South Africa" class="fr">
+
+	<p>Here is the list of players of South Africa for the 2025/2026 season with heights, weights, birthdate, ages, contract length.</p>
+
+					<div class="mts clear mbs" style="text-align: center">
+			<table class="rtable striped alternate eff">
+				<thead>
+					<tr>
+						<th class="pay"></th>
+						<th class="nom txtcenter">Name</th>
+						<th class="pos txtcenter">Position</th>
+						<th class="age txtcenter">Age</th>
+						<th class="nai txtcenter">Birthdate<br>(dd/mm/yyyy)</th>
+						<th class="tai txtcenter">Height</th>
+						<th class="poi txtcenter">Weight</th>
+						<th class="tai txtcenter">Height<br>ft/in</th>
+						<th class="poi txtcenter">Weight<br>st/lb</th>
+												<th class="aut txtcenter">Misc.</th>
+					</tr>
+					</thead>
+					<tbody>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/asenathi-ntlabakanye">Asenathi NTLABAKANYE</a></td>
+							<td class="txtcenter">Prop</td>
+							<td class="txtcenter age">26 y/o</td>
+							<td class="txtcenter">
+																											15/04/1999
+									
+															</td>
+							<td class="txtcenter">1.82&nbsp;m</td>
+							<td class="txtcenter">153&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft</td>
+							<td class="txtcenter">24&nbsp;st; 337.31&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/boan-venter">Boan VENTER</a></td>
+							<td class="txtcenter">Prop</td>
+							<td class="txtcenter age">28 y/o</td>
+							<td class="txtcenter">
+																											12/04/1997
+									
+															</td>
+							<td class="txtcenter">1.87&nbsp;m</td>
+							<td class="txtcenter">124&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 2&nbsp;in</td>
+							<td class="txtcenter">19&nbsp;st 7.37&nbsp;lb; 273.37&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/gerhard-steenekamp">Gerhard STEENEKAMP</a></td>
+							<td class="txtcenter">Prop</td>
+							<td class="txtcenter age">28 y/o</td>
+							<td class="txtcenter">
+																											09/04/1997
+									
+															</td>
+							<td class="txtcenter">1.91&nbsp;m</td>
+							<td class="txtcenter">128&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 3&nbsp;in</td>
+							<td class="txtcenter">20&nbsp;st 2.19&nbsp;lb; 282.19&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/ox-nche">Ox NCHÉ</a></td>
+							<td class="txtcenter">Prop</td>
+							<td class="txtcenter age">30 y/o</td>
+							<td class="txtcenter">
+																											23/07/1995
+									
+															</td>
+							<td class="txtcenter">1.76&nbsp;m</td>
+							<td class="txtcenter">123&nbsp;kg</td>
+							<td class="txtcenter">5&nbsp;ft 9&nbsp;in</td>
+							<td class="txtcenter">19&nbsp;st 5.17&nbsp;lb; 271.17&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/thomas-du-toit">Thomas DU TOIT</a></td>
+							<td class="txtcenter">Prop</td>
+							<td class="txtcenter age">30 y/o</td>
+							<td class="txtcenter">
+																											05/05/1995
+									
+															</td>
+							<td class="txtcenter">1.90&nbsp;m</td>
+							<td class="txtcenter">136&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 3&nbsp;in</td>
+							<td class="txtcenter">21&nbsp;st 5.83&nbsp;lb; 299.83&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/wilco-louw">Wilco LOUW</a></td>
+							<td class="txtcenter">Prop</td>
+							<td class="txtcenter age">31 y/o</td>
+							<td class="txtcenter">
+																											20/07/1994
+									
+															</td>
+							<td class="txtcenter">1.85&nbsp;m</td>
+							<td class="txtcenter">144&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 1&nbsp;in</td>
+							<td class="txtcenter">22&nbsp;st 9.47&nbsp;lb; 317.47&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/zachary-porthen">Zach PORTHEN</a></td>
+							<td class="txtcenter">Prop</td>
+							<td class="txtcenter age">21 y/o</td>
+							<td class="txtcenter">
+																											<svg fill="#919191" width="14" height="14"><use href="/img/design/sprite.svg?ver=202602#lock"></use></svg>/<svg fill="#919191" width="14" height="14"><use href="/img/design/sprite.svg?ver=202602#lock"></use></svg>/2004
+									
+															</td>
+							<td class="txtcenter">1.89&nbsp;m</td>
+							<td class="txtcenter">124&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 2&nbsp;in</td>
+							<td class="txtcenter">19&nbsp;st 7.37&nbsp;lb; 273.37&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/bongi-mbonambi">Bongi MBONAMBI</a></td>
+							<td class="txtcenter">Hooker</td>
+							<td class="txtcenter age">35 y/o</td>
+							<td class="txtcenter">
+																											07/01/1991
+									
+															</td>
+							<td class="txtcenter">1.75&nbsp;m</td>
+							<td class="txtcenter">118&nbsp;kg</td>
+							<td class="txtcenter">5&nbsp;ft 9&nbsp;in</td>
+							<td class="txtcenter">18&nbsp;st 8.15&nbsp;lb; 260.15&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/johan-grobbelaar">Johan GROBBELAAR</a></td>
+							<td class="txtcenter">Hooker</td>
+							<td class="txtcenter age">28 y/o</td>
+							<td class="txtcenter">
+																											30/12/1997
+									
+															</td>
+							<td class="txtcenter">1.83&nbsp;m</td>
+							<td class="txtcenter">105&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft</td>
+							<td class="txtcenter">16&nbsp;st; 231.49&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/malcolm-marx">Malcolm MARX</a></td>
+							<td class="txtcenter">Hooker</td>
+							<td class="txtcenter age">31 y/o</td>
+							<td class="txtcenter">
+																											13/07/1994
+									
+															</td>
+							<td class="txtcenter">1.89&nbsp;m</td>
+							<td class="txtcenter">117&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 2&nbsp;in</td>
+							<td class="txtcenter">18&nbsp;st 5.94&nbsp;lb; 257.94&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/ben-jason-dixon">Ben-Jason DIXON</a></td>
+							<td class="txtcenter">Lock</td>
+							<td class="txtcenter age">27 y/o</td>
+							<td class="txtcenter">
+																											29/04/1998
+									
+															</td>
+							<td class="txtcenter">1.95&nbsp;m</td>
+							<td class="txtcenter">114&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 5&nbsp;in</td>
+							<td class="txtcenter">17&nbsp;st 13.33&nbsp;lb; 251.33&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/eben-etzebeth">Eben ETZEBETH</a></td>
+							<td class="txtcenter">Lock</td>
+							<td class="txtcenter age">34 y/o</td>
+							<td class="txtcenter">
+																											29/10/1991
+									
+															</td>
+							<td class="txtcenter">2.03&nbsp;m</td>
+							<td class="txtcenter">126&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 8&nbsp;in</td>
+							<td class="txtcenter">19&nbsp;st 11.78&nbsp;lb; 277.78&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/franco-mostert">Franco MOSTERT</a></td>
+							<td class="txtcenter">Lock</td>
+							<td class="txtcenter age">35 y/o</td>
+							<td class="txtcenter">
+																											27/11/1990
+									
+															</td>
+							<td class="txtcenter">1.98&nbsp;m</td>
+							<td class="txtcenter">112&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 6&nbsp;in</td>
+							<td class="txtcenter">17&nbsp;st 8.92&nbsp;lb; 246.92&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/jean-kleyn">Jean KLEYN</a></td>
+							<td class="txtcenter">Lock</td>
+							<td class="txtcenter age">32 y/o</td>
+							<td class="txtcenter">
+																											26/08/1993
+									
+															</td>
+							<td class="txtcenter">2.03&nbsp;m</td>
+							<td class="txtcenter">123&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 8&nbsp;in</td>
+							<td class="txtcenter">19&nbsp;st 5.17&nbsp;lb; 271.17&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/lood-de-jager">Lood DE JAGER</a></td>
+							<td class="txtcenter">Lock</td>
+							<td class="txtcenter age">33 y/o</td>
+							<td class="txtcenter">
+																											17/12/1992
+									
+															</td>
+							<td class="txtcenter">2.06&nbsp;m</td>
+							<td class="txtcenter">125&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 9&nbsp;in</td>
+							<td class="txtcenter">19&nbsp;st 9.58&nbsp;lb; 275.58&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/pieter-steph-du-toit">Pieter-Steph DU TOIT</a></td>
+							<td class="txtcenter">Lock</td>
+							<td class="txtcenter age">33 y/o</td>
+							<td class="txtcenter">
+																											20/08/1992
+									
+															</td>
+							<td class="txtcenter">2.00&nbsp;m</td>
+							<td class="txtcenter">116&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 7&nbsp;in</td>
+							<td class="txtcenter">18&nbsp;st 3.74&nbsp;lb; 255.74&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/rg-snyman">RG SNYMAN</a></td>
+							<td class="txtcenter">Lock</td>
+							<td class="txtcenter age">31 y/o</td>
+							<td class="txtcenter">
+																											29/01/1995
+									
+															</td>
+							<td class="txtcenter">2.07&nbsp;m</td>
+							<td class="txtcenter">131&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 9&nbsp;in</td>
+							<td class="txtcenter">20&nbsp;st 8.81&nbsp;lb; 288.81&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/ruan-nortje">Ruan NORTJÉ</a></td>
+							<td class="txtcenter">Lock</td>
+							<td class="txtcenter age">27 y/o</td>
+							<td class="txtcenter">
+																											25/07/1998
+									
+															</td>
+							<td class="txtcenter">2.00&nbsp;m</td>
+							<td class="txtcenter">113&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 7&nbsp;in</td>
+							<td class="txtcenter">17&nbsp;st 11.12&nbsp;lb; 249.12&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/jasper-wiese">Jasper WIESE</a></td>
+							<td class="txtcenter">Back row</td>
+							<td class="txtcenter age">30 y/o</td>
+							<td class="txtcenter">
+																											21/10/1995
+									
+															</td>
+							<td class="txtcenter">1.89&nbsp;m</td>
+							<td class="txtcenter">122&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 2&nbsp;in</td>
+							<td class="txtcenter">19&nbsp;st 2.96&nbsp;lb; 268.96&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/kwagga-smith">Kwagga SMITH</a></td>
+							<td class="txtcenter">Back row</td>
+							<td class="txtcenter age">32 y/o</td>
+							<td class="txtcenter">
+																											11/06/1993
+									
+															</td>
+							<td class="txtcenter">1.80&nbsp;m</td>
+							<td class="txtcenter">99&nbsp;kg</td>
+							<td class="txtcenter">5&nbsp;ft 11&nbsp;in</td>
+							<td class="txtcenter">15&nbsp;st 8.26&nbsp;lb; 218.26&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/marco-van-staden">Marco VAN STADEN</a></td>
+							<td class="txtcenter">Back row</td>
+							<td class="txtcenter age">30 y/o</td>
+							<td class="txtcenter">
+																											25/08/1995
+									
+															</td>
+							<td class="txtcenter">1.84&nbsp;m</td>
+							<td class="txtcenter">112&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft</td>
+							<td class="txtcenter">17&nbsp;st; 246.92&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/siya-kolisi">Siya KOLISI</a></td>
+							<td class="txtcenter">Back row</td>
+							<td class="txtcenter age">34 y/o</td>
+							<td class="txtcenter">
+																											16/06/1991
+									
+															</td>
+							<td class="txtcenter">1.89&nbsp;m</td>
+							<td class="txtcenter">104&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 2&nbsp;in</td>
+							<td class="txtcenter">16&nbsp;st 5.28&nbsp;lb; 229.28&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/cobus-reinach">Cobus REINACH</a></td>
+							<td class="txtcenter">Scrum-half</td>
+							<td class="txtcenter age">36 y/o</td>
+							<td class="txtcenter">
+																											07/02/1990
+									
+															</td>
+							<td class="txtcenter">1.75&nbsp;m</td>
+							<td class="txtcenter">85&nbsp;kg</td>
+							<td class="txtcenter">5&nbsp;ft 9&nbsp;in</td>
+							<td class="txtcenter">13&nbsp;st 5.39&nbsp;lb; 187.39&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/grant-williams">Grant WILLIAMS</a></td>
+							<td class="txtcenter">Scrum-half</td>
+							<td class="txtcenter age">29 y/o</td>
+							<td class="txtcenter">
+																											22/07/1996
+									
+															</td>
+							<td class="txtcenter">1.74&nbsp;m</td>
+							<td class="txtcenter">80&nbsp;kg</td>
+							<td class="txtcenter">5&nbsp;ft 9&nbsp;in</td>
+							<td class="txtcenter">12&nbsp;st 8.37&nbsp;lb; 176.37&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/morne-van-den-berg">Morné VAN DEN BERG</a></td>
+							<td class="txtcenter">Scrum-half</td>
+							<td class="txtcenter age">28 y/o</td>
+							<td class="txtcenter">
+																											24/10/1997
+									
+															</td>
+							<td class="txtcenter">1.75&nbsp;m</td>
+							<td class="txtcenter">82&nbsp;kg</td>
+							<td class="txtcenter">5&nbsp;ft 9&nbsp;in</td>
+							<td class="txtcenter">12&nbsp;st 12.78&nbsp;lb; 180.78&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/damian-willemse">Damian WILLEMSE</a></td>
+							<td class="txtcenter">Fly-half</td>
+							<td class="txtcenter age">27 y/o</td>
+							<td class="txtcenter">
+																											07/05/1998
+									
+															</td>
+							<td class="txtcenter">1.87&nbsp;m</td>
+							<td class="txtcenter">100&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 2&nbsp;in</td>
+							<td class="txtcenter">15&nbsp;st 10.46&nbsp;lb; 220.46&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/handre-pollard">Handré POLLARD</a></td>
+							<td class="txtcenter">Fly-half</td>
+							<td class="txtcenter age">32 y/o</td>
+							<td class="txtcenter">
+																											11/03/1994
+									
+															</td>
+							<td class="txtcenter">1.89&nbsp;m</td>
+							<td class="txtcenter">98&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 2&nbsp;in</td>
+							<td class="txtcenter">15&nbsp;st 6.05&nbsp;lb; 216.05&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/manie-libbok">Manie LIBBOK</a></td>
+							<td class="txtcenter">Fly-half</td>
+							<td class="txtcenter age">28 y/o</td>
+							<td class="txtcenter">
+																											15/07/1997
+									
+															</td>
+							<td class="txtcenter">1.84&nbsp;m</td>
+							<td class="txtcenter">80&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft</td>
+							<td class="txtcenter">12&nbsp;st; 176.37&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/sacha-mngomezulu">Sacha FEINBERG-MNGOMEZULU</a></td>
+							<td class="txtcenter">Fly-half</td>
+							<td class="txtcenter age">24 y/o</td>
+							<td class="txtcenter">
+																											22/02/2002
+									
+															</td>
+							<td class="txtcenter">1.88&nbsp;m</td>
+							<td class="txtcenter">92&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 2&nbsp;in</td>
+							<td class="txtcenter">14&nbsp;st 6.83&nbsp;lb; 202.83&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/andre-esterhuizen">André ESTERHUIZEN</a></td>
+							<td class="txtcenter">Centre</td>
+							<td class="txtcenter age">31 y/o</td>
+							<td class="txtcenter">
+																											30/03/1994
+									
+															</td>
+							<td class="txtcenter">1.93&nbsp;m</td>
+							<td class="txtcenter">115&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 4&nbsp;in</td>
+							<td class="txtcenter">18&nbsp;st 1.53&nbsp;lb; 253.53&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/damian-de-allende">Damian DE ALLENDE</a></td>
+							<td class="txtcenter">Centre</td>
+							<td class="txtcenter age">34 y/o</td>
+							<td class="txtcenter">
+																											25/11/1991
+									
+															</td>
+							<td class="txtcenter">1.89&nbsp;m</td>
+							<td class="txtcenter">106&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 2&nbsp;in</td>
+							<td class="txtcenter">16&nbsp;st 9.69&nbsp;lb; 233.69&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/jesse-kriel">Jesse KRIEL</a></td>
+							<td class="txtcenter">Centre</td>
+							<td class="txtcenter age">32 y/o</td>
+							<td class="txtcenter">
+																											15/02/1994
+									
+															</td>
+							<td class="txtcenter">1.86&nbsp;m</td>
+							<td class="txtcenter">98&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 1&nbsp;in</td>
+							<td class="txtcenter">15&nbsp;st 6.05&nbsp;lb; 216.05&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/canan-moodie">Canan MOODIE</a></td>
+							<td class="txtcenter">Winger</td>
+							<td class="txtcenter age">23 y/o</td>
+							<td class="txtcenter">
+																											05/11/2002
+									
+															</td>
+							<td class="txtcenter">1.91&nbsp;m</td>
+							<td class="txtcenter">94&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 3&nbsp;in</td>
+							<td class="txtcenter">14&nbsp;st 11.23&nbsp;lb; 207.23&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/cheslin-kolbe">Cheslin KOLBE</a></td>
+							<td class="txtcenter">Winger</td>
+							<td class="txtcenter age">32 y/o</td>
+							<td class="txtcenter">
+																											28/10/1993
+									
+															</td>
+							<td class="txtcenter">1.71&nbsp;m</td>
+							<td class="txtcenter">77&nbsp;kg</td>
+							<td class="txtcenter">5&nbsp;ft 7&nbsp;in</td>
+							<td class="txtcenter">12&nbsp;st 1.76&nbsp;lb; 169.76&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/edwill-van-der-merwe">Edwill VAN DER MERWE</a></td>
+							<td class="txtcenter">Winger</td>
+							<td class="txtcenter age">29 y/o</td>
+							<td class="txtcenter">
+																											12/04/1996
+									
+															</td>
+							<td class="txtcenter">1.81&nbsp;m</td>
+							<td class="txtcenter">90&nbsp;kg</td>
+							<td class="txtcenter">5&nbsp;ft 11&nbsp;in</td>
+							<td class="txtcenter">14&nbsp;st 2.42&nbsp;lb; 198.42&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/ethan-hooker">Ethan HOOKER</a></td>
+							<td class="txtcenter">Winger</td>
+							<td class="txtcenter age">23 y/o</td>
+							<td class="txtcenter">
+																											20/01/2003
+									
+															</td>
+							<td class="txtcenter">1.93&nbsp;m</td>
+							<td class="txtcenter">100&nbsp;kg</td>
+							<td class="txtcenter">6&nbsp;ft 4&nbsp;in</td>
+							<td class="txtcenter">15&nbsp;st 10.46&nbsp;lb; 220.46&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+											<tr>
+							<td class="pay"><img src="/img/logo/drapeaux/petit/afs.png" alt="South Africa"></td>
+							<td class="nom"><a href="/player/kurt-lee-arendse">Kurt-Lee ARENDSE</a></td>
+							<td class="txtcenter">Winger</td>
+							<td class="txtcenter age">29 y/o</td>
+							<td class="txtcenter">
+																											17/06/1996
+									
+															</td>
+							<td class="txtcenter">1.76&nbsp;m</td>
+							<td class="txtcenter">82&nbsp;kg</td>
+							<td class="txtcenter">5&nbsp;ft 9&nbsp;in</td>
+							<td class="txtcenter">12&nbsp;st 12.78&nbsp;lb; 180.78&nbsp;lb</td>
+														<td class="txtcenter">
+														</td>
+													</tr>
+										</tbody>
+			</table>
+		</div>
+
+		
+	<div class="mts mbs">
+		<em><svg fill="#919191" width="14" height="14"><use href="/img/design/sprite.svg?ver=202602#lock"></use></svg> : Data reserved for premium accounts ( <a href="/offers">see offers</a> ) </em>
+	</div>
+	<div style="display: flex; justify-content: space-between; margin:0 -5px;" class="mts mbs">
+	<div class="" style="flex:1 1 auto;  padding:0 5px;">
+		<a class="btn btn-social btn-block btn-twitter" href="https://twitter.com/share?url=https://all.rugby/club/south-africa/squad&amp;text=South Africa2025/2026 squad : heights, weights, ages, birthdates...&amp;via=AllRugbyCom" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=700');return false;"><span class="fa fa-twitter"></span>Tweet it !</a>
+	</div>
+	<div class="" style="flex:1 1 auto;  padding:0 5px;">
+		<a class="btn btn-social btn-block btn-facebook" href="https://www.facebook.com/sharer.php?u=https://all.rugby/club/south-africa/squad&amp;t=South Africa2025/2026 squad : heights, weights, ages, birthdates..." onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=700');return false;"><span class="fa fa-facebook"></span>Share it !</a>
+	</div>
+	<!--
+	<div>
+		<a class="btn btn-social btn-block btn-google" href="https://plus.google.com/share?url=https://all.rugby/club/south-africa/squad&hl=fr" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=450,width=650');return false;"><span class="fa fa-google"></span>Google</a>
+	</div>
+	-->
+</div>
+	
+	
+	<h2>Numbers of interest</h2>
+	<ul>
+		<li>Youngest player : <strong>Zach PORTHEN</strong> - 21 years old</li>
+		<li>Oldest player : <strong>Cobus REINACH</strong> - 36 years old</li>
+		<li>Average : <strong>30</strong> years old</li>
+	</ul>
+	<ul>
+		<li>Lightest player : <strong>Cheslin KOLBE</strong> - 77 kg</li>
+		<li>Heaviest player : <strong>Asenathi NTLABAKANYE</strong> - 153 kg</li>
+		<li>Average weight : <strong>109</strong> kg</li>
+	</ul>
+
+</div>

@@ -1,0 +1,1024 @@
+FirstName,LastName,Player,Team,Place,Result,Date,Number,Tries,Drops,Penalties,Conversions,Points,Pen_Cards,Minutes
+Boan,VENTER,Boan VENTER,Edinburgh,HOME,L,20/09,17,,,,,,,24
+Boan,VENTER,Boan VENTER,Edinburgh,AWAY,L,28/09,17,,,,,,,23
+Boan,VENTER,Boan VENTER,Edinburgh,AWAY,L,05/10,17,,,,,,,24
+Boan,VENTER,Boan VENTER,Edinburgh,HOME,W,12/10,17,,,,,,,23
+Boan,VENTER,Boan VENTER,Edinburgh,HOME,W,19/10,1,,,,,,,47
+Boan,VENTER,Boan VENTER,Edinburgh,AWAY,L,26/10,1,,,,,,,80
+Boan,VENTER,Boan VENTER,Edinburgh,HOME,W,30/11,17,,,,,,,19
+Boan,VENTER,Boan VENTER,Edinburgh,AWAY,L,06/12,1,,,,,,,80
+Boan,VENTER,Boan VENTER,Edinburgh,HOME,W,13/12,17,,,,,,,20
+Boan,VENTER,Boan VENTER,Edinburgh,AWAY,L,22/12,17,2,,,,10,,24
+Boan,VENTER,Boan VENTER,Edinburgh,HOME,W,28/12,1,,,,,,,47
+Boan,VENTER,Boan VENTER,Edinburgh,AWAY,W,11/01,17,,,,,,,31
+Boan,VENTER,Boan VENTER,Edinburgh,HOME,W,19/01,17,,,,,,,31
+Boan,VENTER,Boan VENTER,Edinburgh,AWAY,L,25/01,1,,,,,,,64
+Boan,VENTER,Boan VENTER,Edinburgh,HOME,L,14/02,1,,,,,,,65
+Boan,VENTER,Boan VENTER,Edinburgh,AWAY,W,28/02,1,,,,,,,65
+Boan,VENTER,Boan VENTER,Edinburgh,AWAY,L,22/03,1,,,,,,,75
+Boan,VENTER,Boan VENTER,Edinburgh,HOME,W,28/03,17,1,,,,5,,30
+Boan,VENTER,Boan VENTER,Edinburgh,HOME,W,04/04,17,,,,,,,26
+Boan,VENTER,Boan VENTER,Edinburgh,HOME,W,12/04,1,,,,,,,50
+Boan,VENTER,Boan VENTER,Edinburgh,HOME,L,18/04,17,,,,,,,24
+Boan,VENTER,Boan VENTER,Edinburgh,AWAY,D,25/04,1,2,,,,10,,70
+Boan,VENTER,Boan VENTER,Edinburgh,HOME,L,03/05,17,,,,,,,27
+Boan,VENTER,Boan VENTER,Edinburgh,AWAY,W,10/05,17,,,,,,,18
+Boan,VENTER,Boan VENTER,Edinburgh,AWAY,L,31/05,17,,,,,,,30
+Boan,VENTER,Boan VENTER,South Africa,HOME,W,19/07,1,1,,,,5,,44
+Boan,VENTER,Boan VENTER,South Africa,HOME,L,16/08,17,,,,,,,22
+Boan,VENTER,Boan VENTER,South Africa,HOME,W,23/08,17,,,,,,,10
+Boan,VENTER,Boan VENTER,South Africa,AWAY,L,06/09,17,,,,,,,13
+Boan,VENTER,Boan VENTER,South Africa,HOME,W,27/09,1,,,,,,,47
+Canan,MOODIE,Canan MOODIE,Bulls,HOME,W,28/09,11,1,,,,5,,80
+Canan,MOODIE,Canan MOODIE,Bulls,HOME,W,05/10,13,1,,,,5,,80
+Canan,MOODIE,Canan MOODIE,Bulls,AWAY,W,12/10,13,,,,,,,80
+Canan,MOODIE,Canan MOODIE,Bulls,AWAY,L,18/10,13,1,,,,5,,80
+Canan,MOODIE,Canan MOODIE,Bulls,AWAY,W,25/10,13,,,,,,,80
+Canan,MOODIE,Canan MOODIE,South Africa,AWAY,W,10/11,14,,,,,,,80
+Canan,MOODIE,Canan MOODIE,Bulls,AWAY,W,30/11,14,1,,,,5,,80
+Canan,MOODIE,Canan MOODIE,Bulls,AWAY,L,07/12,13,,,,,,,80
+Canan,MOODIE,Canan MOODIE,Bulls,HOME,L,14/12,13,,,,,,,80
+Canan,MOODIE,Canan MOODIE,Bulls,AWAY,L,21/12,11,,,,,,,80
+Canan,MOODIE,Canan MOODIE,Bulls,HOME,W,18/01,23,,,,,,,26
+Canan,MOODIE,Canan MOODIE,Bulls,AWAY,W,25/01,22,,,,,,,40
+Canan,MOODIE,Canan MOODIE,Bulls,AWAY,W,08/02,14,,,,,,,80
+Canan,MOODIE,Canan MOODIE,Bulls,HOME,L,15/02,14,,,,,,,80
+Canan,MOODIE,Canan MOODIE,Bulls,HOME,W,22/02,11,2,,,,10,,80
+Canan,MOODIE,Canan MOODIE,Bulls,HOME,L,01/03,11,,,,,,,6
+Canan,MOODIE,Canan MOODIE,Bulls,AWAY,L,12/04,23,,,,,,,37
+Canan,MOODIE,Canan MOODIE,Bulls,AWAY,W,19/04,14,,,,,,,80
+Canan,MOODIE,Canan MOODIE,Bulls,AWAY,W,25/04,14,,,,,,,80
+Canan,MOODIE,Canan MOODIE,Bulls,HOME,W,10/05,14,1,,,,5,,70
+Canan,MOODIE,Canan MOODIE,Bulls,HOME,W,17/05,13,,,,,,,80
+Canan,MOODIE,Canan MOODIE,Bulls,HOME,W,31/05,14,1,,,,5,,56
+Canan,MOODIE,Canan MOODIE,Bulls,HOME,W,07/06,14,1,,,,5,,80
+Canan,MOODIE,Canan MOODIE,Bulls,AWAY,L,14/06,14,,,,,,,80
+Canan,MOODIE,Canan MOODIE,South Africa,HOME,W,12/07,13,1,,,,5,,56
+Canan,MOODIE,Canan MOODIE,South Africa,HOME,W,19/07,13,1,,,,5,,80
+Canan,MOODIE,Canan MOODIE,South Africa,HOME,L,16/08,22,,,,,,,21
+Canan,MOODIE,Canan MOODIE,South Africa,HOME,W,23/08,14,1,,,,5,,54
+Canan,MOODIE,Canan MOODIE,South Africa,AWAY,L,06/09,11,,,,,,,80
+Canan,MOODIE,Canan MOODIE,South Africa,AWAY,W,13/09,13,,,,,,,80
+Canan,MOODIE,Canan MOODIE,South Africa,HOME,W,27/09,13,,,,,,,80
+Canan,MOODIE,Canan MOODIE,South Africa,AWAY,W,04/10,13,,,,,,1,39
+Rory,DARGE,Rory DARGE,Glasgow,AWAY,L,21/09,7,,,,,,,80
+Rory,DARGE,Rory DARGE,Glasgow,HOME,W,27/09,7,1,,,,5,,80
+Rory,DARGE,Rory DARGE,Glasgow,HOME,W,11/10,7,,,,,,,80
+Rory,DARGE,Rory DARGE,Glasgow,AWAY,L,19/10,7,1,,,,5,,80
+Rory,DARGE,Rory DARGE,Glasgow,AWAY,W,26/10,7,,,,,,,80
+Rory,DARGE,Rory DARGE,Scotland,HOME,W,02/11,7,,,,,,,80
+Rory,DARGE,Rory DARGE,Scotland,HOME,L,10/11,7,,,,,,,60
+Rory,DARGE,Rory DARGE,Scotland,HOME,W,24/11,7,,,,,,,63
+Rory,DARGE,Rory DARGE,Glasgow,HOME,W,07/12,7,,,,,,,72
+Rory,DARGE,Rory DARGE,Glasgow,AWAY,L,15/12,7,,,,,,,40
+Rory,DARGE,Rory DARGE,Glasgow,AWAY,L,28/12,20,,,,,,,36
+Rory,DARGE,Rory DARGE,Glasgow,HOME,W,10/01,7,1,,,,5,,77
+Rory,DARGE,Rory DARGE,Glasgow,AWAY,L,18/01,7,,,,,,,56
+Rory,DARGE,Rory DARGE,Scotland,HOME,W,01/02,7,1,,,,5,,80
+Rory,DARGE,Rory DARGE,Scotland,HOME,L,09/02,7,,,,,,,80
+Rory,DARGE,Rory DARGE,Scotland,AWAY,L,22/02,7,,,,,,,80
+Rory,DARGE,Rory DARGE,Scotland,HOME,W,08/03,7,,,,,,,36
+Rory,DARGE,Rory DARGE,Scotland,AWAY,L,15/03,7,,,,,,,66
+Rory,DARGE,Rory DARGE,Glasgow,HOME,W,29/03,21,,,,,,,23
+Rory,DARGE,Rory DARGE,Glasgow,HOME,W,05/04,21,,,,,,,29
+Rory,DARGE,Rory DARGE,Glasgow,AWAY,L,11/04,7,,,,,,,80
+Rory,DARGE,Rory DARGE,Glasgow,AWAY,W,19/04,20,,,,,,,20
+Rory,DARGE,Rory DARGE,Glasgow,HOME,L,25/04,7,,,,,,,80
+Rory,DARGE,Rory DARGE,Glasgow,AWAY,L,10/05,7,,,,,,,80
+Rory,DARGE,Rory DARGE,Glasgow,AWAY,L,17/05,7,,,,,,,80
+Rory,DARGE,Rory DARGE,Glasgow,HOME,W,30/05,7,1,,,,5,,80
+Rory,DARGE,Rory DARGE,Glasgow,AWAY,L,07/06,7,,,,,,,80
+Rory,DARGE,Rory DARGE,Scotland,AWAY,L,12/07,7,,,,,,,80
+Rory,DARGE,Rory DARGE,Scotland,AWAY,W,18/07,7,,,,,,,55
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,HOME,W,07/09,11,,,,,,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,HOME,W,21/09,11,3,,,,15,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,AWAY,W,29/09,15,1,,,,5,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,HOME,W,05/10,11,,,,,,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,AWAY,L,20/10,15,,,,,,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,HOME,W,26/10,11,1,,,,5,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,France,HOME,W,09/11,11,2,,,,10,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,France,HOME,W,16/11,11,1,,,,5,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,France,HOME,W,22/11,11,1,,,,5,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,HOME,W,30/11,11,,,,,,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,HOME,W,08/12,15,2,,,,10,,62
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,AWAY,W,14/12,15,1,,,,5,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,HOME,W,28/12,15,,,,,,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,AWAY,W,04/01,11,2,,,,10,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,AWAY,W,11/01,22,2,,,,10,,54
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,France,HOME,W,31/01,11,2,,,,10,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,France,AWAY,L,08/02,11,2,,,,10,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,France,AWAY,W,23/02,11,1,,,,5,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,France,AWAY,W,08/03,11,2,,,,10,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,France,HOME,W,15/03,11,1,,,,5,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,HOME,W,23/03,11,1,,,,5,,48
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,AWAY,L,30/03,11,1,,,,5,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,HOME,W,12/04,11,1,,,,5,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,AWAY,W,19/04,11,1,,,,5,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,HOME,L,26/04,11,,,,,,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,HOME,W,04/05,11,2,,,,10,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,HOME,W,17/05,11,1,,,,5,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,AWAY,W,24/05,11,,,,,,,80
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,HOME,W,07/06,11,2,,,,10,,73
+Louis,BIELLE-BIARREY,Louis BIELLE-BIARREY,Bordeaux,AWAY,L,28/06,11,,,,,,,40
+Marcus,SMITH,Marcus SMITH,Harlequins,AWAY,L,22/09,22,,,,,,,31
+Marcus,SMITH,Marcus SMITH,Harlequins,HOME,W,28/09,10,,,,4,8,,80
+Marcus,SMITH,Marcus SMITH,Harlequins,AWAY,L,04/10,15,2,,1,3,19,,80
+Marcus,SMITH,Marcus SMITH,Harlequins,HOME,W,13/10,10,,,1,2,7,,80
+Marcus,SMITH,Marcus SMITH,Harlequins,HOME,L,19/10,10,,,1,3,9,,80
+Marcus,SMITH,Marcus SMITH,England,HOME,L,02/11,10,,,5,1,17,,62
+Marcus,SMITH,Marcus SMITH,England,HOME,L,09/11,10,,,2,3,12,,80
+Marcus,SMITH,Marcus SMITH,England,HOME,L,16/11,10,,,2,2,10,,80
+Marcus,SMITH,Marcus SMITH,England,HOME,W,24/11,10,,,,7,14,,80
+Marcus,SMITH,Marcus SMITH,Harlequins,AWAY,L,07/12,10,,,,1,2,,80
+Marcus,SMITH,Marcus SMITH,Harlequins,HOME,W,14/12,10,,,1,3,9,,65
+Marcus,SMITH,Marcus SMITH,Harlequins,AWAY,L,20/12,10,,,,,,,80
+Marcus,SMITH,Marcus SMITH,Harlequins,HOME,D,28/12,10,,,2,4,14,,80
+Marcus,SMITH,Marcus SMITH,Harlequins,AWAY,W,03/01,10,1,,1,5,18,,80
+Marcus,SMITH,Marcus SMITH,Harlequins,AWAY,L,12/01,10,,,,3,6,,80
+Marcus,SMITH,Marcus SMITH,Harlequins,HOME,W,18/01,10,,,1,3,9,,80
+Marcus,SMITH,Marcus SMITH,England,AWAY,L,01/02,10,,,1,2,7,1,70
+Marcus,SMITH,Marcus SMITH,England,HOME,W,08/02,15,,,,1,2,,80
+Marcus,SMITH,Marcus SMITH,England,HOME,W,22/02,15,,,2,1,8,,80
+Marcus,SMITH,Marcus SMITH,England,HOME,W,09/03,23,1,,,,5,,72
+Marcus,SMITH,Marcus SMITH,England,AWAY,W,15/03,15,,,,4,8,,80
+Marcus,SMITH,Marcus SMITH,Harlequins,AWAY,L,29/03,10,,,,3,6,1,70
+Marcus,SMITH,Marcus SMITH,Harlequins,AWAY,L,05/04,10,,,,,,,80
+Marcus,SMITH,Marcus SMITH,Harlequins,HOME,L,19/04,10,,,1,3,9,,80
+Marcus,SMITH,Marcus SMITH,Harlequins,AWAY,L,26/04,10,,,,1,2,,65
+Marcus,SMITH,Marcus SMITH,Harlequins,HOME,W,10/05,10,,,,4,8,,80
+Marcus,SMITH,Marcus SMITH,Harlequins,HOME,W,18/05,10,1,,1,3,14,,80
+Marcus,SMITH,Marcus SMITH,Lions,HOME,L,20/06,15,,,,,,,80
+Marcus,SMITH,Marcus SMITH,Lions,AWAY,W,19/07,22,,,1,,3,,14
+Jesse,KRIEL,Jesse KRIEL,South Africa,AWAY,W,16/11,13,,,,,,,80
+Jesse,KRIEL,Jesse KRIEL,South Africa,AWAY,W,23/11,13,,,,,,,80
+Jesse,KRIEL,Jesse KRIEL,Canon Eagles,HOME,L,22/12,13,,,,,,,80
+Jesse,KRIEL,Jesse KRIEL,Canon Eagles,AWAY,L,29/12,13,,,,,,,80
+Jesse,KRIEL,Jesse KRIEL,Canon Eagles,AWAY,W,04/01,13,,,,,,,80
+Jesse,KRIEL,Jesse KRIEL,Canon Eagles,HOME,W,11/01,13,2,,,,10,,80
+Jesse,KRIEL,Jesse KRIEL,Canon Eagles,HOME,W,18/01,13,1,,,,5,,80
+Jesse,KRIEL,Jesse KRIEL,Canon Eagles,AWAY,W,01/02,13,1,,,,5,,80
+Jesse,KRIEL,Jesse KRIEL,Canon Eagles,HOME,L,08/02,13,,,,,,,80
+Jesse,KRIEL,Jesse KRIEL,Canon Eagles,AWAY,W,02/03,13,1,,,,5,,80
+Jesse,KRIEL,Jesse KRIEL,Canon Eagles,HOME,L,15/03,13,,,,,,,80
+Jesse,KRIEL,Jesse KRIEL,Canon Eagles,AWAY,L,22/03,13,,,,,,,80
+Jesse,KRIEL,Jesse KRIEL,Canon Eagles,HOME,L,30/03,13,,,,,,,80
+Jesse,KRIEL,Jesse KRIEL,Canon Eagles,HOME,W,05/04,13,1,,,,5,,80
+Jesse,KRIEL,Jesse KRIEL,Canon Eagles,AWAY,L,12/04,13,1,,,,5,,80
+Jesse,KRIEL,Jesse KRIEL,Canon Eagles,AWAY,L,27/04,13,,,,,,,80
+Jesse,KRIEL,Jesse KRIEL,Canon Eagles,HOME,L,04/05,13,1,,,,5,,80
+Jesse,KRIEL,Jesse KRIEL,Canon Eagles,AWAY,L,10/05,13,1,,,,5,1,79
+Jesse,KRIEL,Jesse KRIEL,South Africa,HOME,W,28/06,13,,,,,,,80
+Jesse,KRIEL,Jesse KRIEL,South Africa,HOME,W,05/07,13,1,,,,5,,80
+Jesse,KRIEL,Jesse KRIEL,South Africa,HOME,L,16/08,13,,,,,,,80
+Jesse,KRIEL,Jesse KRIEL,South Africa,HOME,W,23/08,13,,,,,,,80
+Jesse,KRIEL,Jesse KRIEL,South Africa,AWAY,L,06/09,13,,,,,,,80
+Jesse,KRIEL,Jesse KRIEL,South Africa,AWAY,W,04/10,23,,,,,,,31
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,HOME,W,28/09,3,,,,,,,66
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,HOME,W,05/10,3,,,,,,,61
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,AWAY,W,13/10,3,,,,,,,43
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,AWAY,L,26/10,3,,,,,,,67
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,AWAY,L,30/11,3,,,,,,,55
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,HOME,W,14/12,3,,,,,,,62
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,AWAY,L,21/12,3,,,,,,,59
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,AWAY,L,11/01,3,,,,,,,58
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,HOME,W,18/01,3,,,,,,,50
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,HOME,L,25/01,3,,,,,,,55
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,HOME,W,15/02,3,,,,,,,62
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,AWAY,L,22/02,3,,,,,,,62
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,HOME,W,01/03,3,,,,,,,56
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,AWAY,L,08/03,3,,,,,,,58
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,AWAY,L,21/03,3,1,,,,5,,54
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,AWAY,L,29/03,3,,,,,,,52
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,AWAY,L,04/04,3,,,,,,,63
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,HOME,L,19/04,3,,,,,,,45
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,HOME,W,26/04,3,,,,,,,66
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,HOME,L,11/05,3,,,,,,,64
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,Lions,HOME,W,17/05,3,,,,,,,60
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,South Africa,HOME,W,28/06,3,,,,,,,44
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,South Africa,HOME,W,12/07,18,,,,,,,19
+Asenathi,NTLABAKANYE,Asenathi NTLABAKANYE,South Africa,HOME,L,16/08,18,,,,,,,21
+Damian DE,ALLENDE,Damian DE ALLENDE,South Africa,AWAY,W,16/11,12,,,,,,,68
+Damian DE,ALLENDE,Damian DE ALLENDE,South Africa,AWAY,W,23/11,12,,,,,,,50
+Damian DE,ALLENDE,Damian DE ALLENDE,Wild Knights,AWAY,W,21/12,12,,,,,,,80
+Damian DE,ALLENDE,Damian DE ALLENDE,Wild Knights,HOME,W,28/12,12,,,,,,,80
+Damian DE,ALLENDE,Damian DE ALLENDE,Wild Knights,AWAY,W,04/01,12,,,,,,,80
+Damian DE,ALLENDE,Damian DE ALLENDE,Wild Knights,HOME,W,12/01,12,1,,,,5,,80
+Damian DE,ALLENDE,Damian DE ALLENDE,Wild Knights,AWAY,W,19/01,12,2,,,,10,,71
+Damian DE,ALLENDE,Damian DE ALLENDE,Wild Knights,HOME,W,01/02,12,,,,,,,60
+Damian DE,ALLENDE,Damian DE ALLENDE,Wild Knights,HOME,D,09/02,12,,,,,,,80
+Damian DE,ALLENDE,Damian DE ALLENDE,Wild Knights,AWAY,W,16/02,12,,,,,,,40
+Damian DE,ALLENDE,Damian DE ALLENDE,Wild Knights,HOME,W,02/03,12,2,,,,10,,80
+Damian DE,ALLENDE,Damian DE ALLENDE,Wild Knights,AWAY,L,15/03,12,,,,,,,73
+Damian DE,ALLENDE,Damian DE ALLENDE,Wild Knights,AWAY,L,22/03,12,,,,,,,80
+Damian DE,ALLENDE,Damian DE ALLENDE,Wild Knights,AWAY,W,29/03,12,,,,,,,80
+Damian DE,ALLENDE,Damian DE ALLENDE,Wild Knights,HOME,W,05/04,12,1,,,,5,,80
+Damian DE,ALLENDE,Damian DE ALLENDE,Wild Knights,AWAY,W,11/04,12,,,,,,,80
+Damian DE,ALLENDE,Damian DE ALLENDE,Wild Knights,AWAY,D,03/05,12,,,,,,,80
+Damian DE,ALLENDE,Damian DE ALLENDE,Wild Knights,HOME,W,10/05,12,1,,,,5,,65
+Damian DE,ALLENDE,Damian DE ALLENDE,Wild Knights,HOME,L,25/05,12,,,,,,,80
+Damian DE,ALLENDE,Damian DE ALLENDE,Wild Knights,AWAY,L,31/05,12,,,,,,,80
+Damian DE,ALLENDE,Damian DE ALLENDE,South Africa,HOME,W,28/06,12,1,,,,5,,80
+Damian DE,ALLENDE,Damian DE ALLENDE,South Africa,HOME,W,05/07,12,,,,,,,62
+Damian DE,ALLENDE,Damian DE ALLENDE,South Africa,HOME,W,19/07,12,,,,,,,80
+Damian DE,ALLENDE,Damian DE ALLENDE,South Africa,HOME,W,23/08,12,,,,,,,80
+Damian DE,ALLENDE,Damian DE ALLENDE,South Africa,AWAY,L,06/09,12,,,,,,,74
+Damian DE,ALLENDE,Damian DE ALLENDE,South Africa,HOME,W,27/09,12,,,,,,,80
+Damian DE,ALLENDE,Damian DE ALLENDE,South Africa,AWAY,W,04/10,12,,,,,,,80
+Damian,WILLEMSE,Damian WILLEMSE,Stormers,AWAY,L,28/09,15,,1,,,3,,80
+Damian,WILLEMSE,Damian WILLEMSE,Stormers,AWAY,W,05/10,15,,,,1,2,,80
+Damian,WILLEMSE,Damian WILLEMSE,Stormers,AWAY,L,12/10,10,,,,1,2,,80
+Damian,WILLEMSE,Damian WILLEMSE,Stormers,HOME,W,19/10,10,,1,1,4,14,,80
+Damian,WILLEMSE,Damian WILLEMSE,Stormers,HOME,L,26/10,12,1,,,,5,,36
+Damian,WILLEMSE,Damian WILLEMSE,Stormers,AWAY,W,22/03,23,,,,,,,23
+Damian,WILLEMSE,Damian WILLEMSE,Stormers,AWAY,L,28/03,15,,,,,,,68
+Damian,WILLEMSE,Damian WILLEMSE,Stormers,HOME,W,19/04,12,,,,,,,80
+Damian,WILLEMSE,Damian WILLEMSE,Stormers,HOME,W,26/04,12,,,,,,1,61
+Damian,WILLEMSE,Damian WILLEMSE,Stormers,HOME,W,10/05,12,1,,,2,9,,80
+Damian,WILLEMSE,Damian WILLEMSE,Stormers,HOME,W,16/05,15,,,,2,4,1,56
+Damian,WILLEMSE,Damian WILLEMSE,South Africa,HOME,W,05/07,15,,,,,,,80
+Damian,WILLEMSE,Damian WILLEMSE,South Africa,HOME,W,19/07,23,1,,,,5,,26
+Damian,WILLEMSE,Damian WILLEMSE,South Africa,HOME,L,16/08,23,,,,,,,29
+Damian,WILLEMSE,Damian WILLEMSE,South Africa,AWAY,W,13/09,12,1,,,,5,,80
+Damian,WILLEMSE,Damian WILLEMSE,South Africa,HOME,W,27/09,15,,,,,,,61
+Damian,WILLEMSE,Damian WILLEMSE,South Africa,AWAY,W,04/10,15,,,,,,,80
+RG,SNYMAN,RG SNYMAN,Leinster,AWAY,W,05/10,5,,,,,,,50
+RG,SNYMAN,RG SNYMAN,Leinster,HOME,W,12/10,4,1,,,,5,,49
+RG,SNYMAN,RG SNYMAN,Leinster,AWAY,W,19/10,4,1,,,,5,,67
+RG,SNYMAN,RG SNYMAN,Leinster,HOME,W,26/10,4,,,,,,,80
+RG,SNYMAN,RG SNYMAN,South Africa,AWAY,W,10/11,19,,,,,,,40
+RG,SNYMAN,RG SNYMAN,South Africa,AWAY,W,16/11,5,,,,,,,80
+RG,SNYMAN,RG SNYMAN,South Africa,AWAY,W,23/11,20,,,,,,,51
+RG,SNYMAN,RG SNYMAN,Leinster,AWAY,W,29/11,19,,,,,,,35
+RG,SNYMAN,RG SNYMAN,Leinster,AWAY,W,08/12,19,,,,,,,36
+RG,SNYMAN,RG SNYMAN,Leinster,HOME,W,14/12,19,,,,,,,33
+RG,SNYMAN,RG SNYMAN,Leinster,HOME,W,21/12,5,,,,,,,80
+RG,SNYMAN,RG SNYMAN,Leinster,AWAY,W,12/01,19,,,,,,,34
+RG,SNYMAN,RG SNYMAN,Leinster,HOME,W,18/01,19,2,,,,10,,36
+RG,SNYMAN,RG SNYMAN,Leinster,HOME,W,25/01,4,,,,,,,80
+RG,SNYMAN,RG SNYMAN,Leinster,AWAY,W,14/02,19,,,,,,,34
+RG,SNYMAN,RG SNYMAN,Leinster,HOME,W,01/03,19,,,,,,,40
+RG,SNYMAN,RG SNYMAN,Leinster,AWAY,L,22/03,4,,,,,,,80
+RG,SNYMAN,RG SNYMAN,Leinster,HOME,W,05/04,5,,,,,,,58
+RG,SNYMAN,RG SNYMAN,Leinster,HOME,W,11/04,5,,,,,,,62
+RG,SNYMAN,RG SNYMAN,Leinster,HOME,W,19/04,19,,,,,,,18
+RG,SNYMAN,RG SNYMAN,Leinster,HOME,L,03/05,4,,,,,,,80
+RG,SNYMAN,RG SNYMAN,Leinster,HOME,W,17/05,4,,,,,,,80
+RG,SNYMAN,RG SNYMAN,Leinster,HOME,W,31/05,19,,,,,,,27
+RG,SNYMAN,RG SNYMAN,Leinster,HOME,W,07/06,19,,,,,,,25
+RG,SNYMAN,RG SNYMAN,Leinster,HOME,W,14/06,19,,,,,,,38
+RG,SNYMAN,RG SNYMAN,South Africa,HOME,W,05/07,19,,,,,,,33
+RG,SNYMAN,RG SNYMAN,South Africa,HOME,W,19/07,19,,,,,,,36
+RG,SNYMAN,RG SNYMAN,South Africa,HOME,W,23/08,4,,,,,,,44
+RG,SNYMAN,RG SNYMAN,South Africa,AWAY,W,13/09,19,1,,,,5,,71
+RG,SNYMAN,RG SNYMAN,South Africa,HOME,W,27/09,19,,,,,,,33
+RG,SNYMAN,RG SNYMAN,South Africa,AWAY,W,04/10,19,,,,,,,33
+Lood DE,JAGER,Lood DE JAGER,Wild Knights,AWAY,W,19/01,19,,,,,,,20
+Lood DE,JAGER,Lood DE JAGER,Wild Knights,HOME,W,01/02,5,1,,,,5,,49
+Lood DE,JAGER,Lood DE JAGER,Wild Knights,HOME,D,09/02,5,,,,,,,63
+Lood DE,JAGER,Lood DE JAGER,Wild Knights,AWAY,W,16/02,5,1,,,,5,,68
+Lood DE,JAGER,Lood DE JAGER,Wild Knights,HOME,W,22/02,5,,,,,,,51
+Lood DE,JAGER,Lood DE JAGER,Wild Knights,HOME,W,02/03,5,,,,,,,80
+Lood DE,JAGER,Lood DE JAGER,Wild Knights,AWAY,L,15/03,5,,,,,,,73
+Lood DE,JAGER,Lood DE JAGER,Wild Knights,AWAY,L,22/03,5,1,,,,5,,49
+Lood DE,JAGER,Lood DE JAGER,Wild Knights,HOME,W,05/04,20,2,,,,10,,40
+Lood DE,JAGER,Lood DE JAGER,Wild Knights,AWAY,W,11/04,5,,,,,,,80
+Lood DE,JAGER,Lood DE JAGER,Wild Knights,AWAY,D,03/05,5,,,,,,,64
+Lood DE,JAGER,Lood DE JAGER,Wild Knights,HOME,W,10/05,5,1,,,,5,,62
+Lood DE,JAGER,Lood DE JAGER,Wild Knights,HOME,L,25/05,5,,,,,,,62
+Lood DE,JAGER,Lood DE JAGER,Wild Knights,AWAY,L,31/05,5,,,,,,,62
+Lood DE,JAGER,Lood DE JAGER,South Africa,HOME,W,28/06,5,1,,,,5,,70
+Lood DE,JAGER,Lood DE JAGER,South Africa,HOME,W,05/07,5,,,,,,,47
+Lood DE,JAGER,Lood DE JAGER,South Africa,HOME,L,16/08,5,,,,,,,45
+Lood DE,JAGER,Lood DE JAGER,South Africa,HOME,W,23/08,20,,,,,,,36
+Lood DE,JAGER,Lood DE JAGER,South Africa,AWAY,L,06/09,19,,,,,,,30
+Lood DE,JAGER,Lood DE JAGER,South Africa,AWAY,W,13/09,4,,,,,,,9
+Wilco,LOUW,Wilco LOUW,Bulls,HOME,W,05/10,3,,,,,,,59
+Wilco,LOUW,Wilco LOUW,Bulls,AWAY,W,12/10,3,,,,,,,69
+Wilco,LOUW,Wilco LOUW,Bulls,AWAY,L,18/10,3,,,,,,,59
+Wilco,LOUW,Wilco LOUW,Bulls,AWAY,W,25/10,3,,,,,,,47
+Wilco,LOUW,Wilco LOUW,South Africa,AWAY,W,16/11,3,,,,,,,48
+Wilco,LOUW,Wilco LOUW,South Africa,AWAY,W,23/11,3,,,,,,,45
+Wilco,LOUW,Wilco LOUW,Bulls,HOME,L,14/12,3,,,,,,,48
+Wilco,LOUW,Wilco LOUW,Bulls,AWAY,L,21/12,3,,,,,,,57
+Wilco,LOUW,Wilco LOUW,Bulls,HOME,W,18/01,3,,,,,,,58
+Wilco,LOUW,Wilco LOUW,Bulls,AWAY,W,25/01,3,,,,,,,50
+Wilco,LOUW,Wilco LOUW,Bulls,AWAY,W,08/02,3,,,,,,,65
+Wilco,LOUW,Wilco LOUW,Bulls,HOME,L,15/02,3,,,,,,,64
+Wilco,LOUW,Wilco LOUW,Bulls,HOME,W,22/02,3,,,,,,,65
+Wilco,LOUW,Wilco LOUW,Bulls,HOME,L,01/03,3,,,,,,,61
+Wilco,LOUW,Wilco LOUW,Bulls,HOME,W,22/03,3,,,,,,,52
+Wilco,LOUW,Wilco LOUW,Bulls,HOME,W,29/03,18,,,,,,,28
+Wilco,LOUW,Wilco LOUW,Bulls,AWAY,W,05/04,3,,,,,,,55
+Wilco,LOUW,Wilco LOUW,Bulls,AWAY,L,12/04,3,,,,,,,52
+Wilco,LOUW,Wilco LOUW,Bulls,AWAY,W,19/04,3,,,,,,,57
+Wilco,LOUW,Wilco LOUW,Bulls,AWAY,W,25/04,3,,,,,,1,42
+Wilco,LOUW,Wilco LOUW,Bulls,HOME,W,10/05,3,1,,,,5,,51
+Wilco,LOUW,Wilco LOUW,Bulls,HOME,W,31/05,3,,,,,,,64
+Wilco,LOUW,Wilco LOUW,Bulls,HOME,W,07/06,3,,,,,,,59
+Wilco,LOUW,Wilco LOUW,Bulls,AWAY,L,14/06,3,,,,,,,64
+Wilco,LOUW,Wilco LOUW,South Africa,HOME,W,05/07,3,,,,,,,47
+Wilco,LOUW,Wilco LOUW,South Africa,HOME,W,12/07,3,,,,,,1,51
+Wilco,LOUW,Wilco LOUW,South Africa,HOME,L,16/08,3,,,,,,,59
+Wilco,LOUW,Wilco LOUW,South Africa,HOME,W,23/08,18,,,,,,,17
+Wilco,LOUW,Wilco LOUW,South Africa,AWAY,L,06/09,18,,,,,,,19
+Wilco,LOUW,Wilco LOUW,South Africa,AWAY,W,13/09,18,,,,,,,39
+Wilco,LOUW,Wilco LOUW,South Africa,HOME,W,27/09,18,,,,,,,35
+Wilco,LOUW,Wilco LOUW,South Africa,AWAY,W,04/10,18,,,,,,,31
+Ethan,HOOKER,Ethan HOOKER,Sharks,AWAY,L,28/09,11,,,,,,,80
+Ethan,HOOKER,Ethan HOOKER,Sharks,AWAY,W,05/10,11,1,,,,5,,80
+Ethan,HOOKER,Ethan HOOKER,Sharks,AWAY,L,12/10,11,,,,,,,13
+Ethan,HOOKER,Ethan HOOKER,Sharks,HOME,W,30/11,14,1,,,,5,,80
+Ethan,HOOKER,Ethan HOOKER,Sharks,HOME,W,07/12,13,,,,,,,65
+Ethan,HOOKER,Ethan HOOKER,Sharks,AWAY,L,14/12,13,1,,,,5,,69
+Ethan,HOOKER,Ethan HOOKER,Sharks,HOME,W,21/12,13,,,,,,,80
+Ethan,HOOKER,Ethan HOOKER,Sharks,AWAY,L,28/12,11,,,,,,1,70
+Ethan,HOOKER,Ethan HOOKER,Sharks,HOME,L,11/01,13,,,,,,,71
+Ethan,HOOKER,Ethan HOOKER,Sharks,AWAY,L,19/01,11,,,,,,,80
+Ethan,HOOKER,Ethan HOOKER,Sharks,AWAY,W,25/01,12,,,,,,,80
+Ethan,HOOKER,Ethan HOOKER,Sharks,AWAY,W,15/02,11,1,,,,5,,80
+Ethan,HOOKER,Ethan HOOKER,Sharks,AWAY,L,01/03,11,1,,,,5,,80
+Ethan,HOOKER,Ethan HOOKER,Sharks,HOME,W,08/03,11,,,,,,,71
+Ethan,HOOKER,Ethan HOOKER,Sharks,HOME,W,22/03,12,1,,,,5,,80
+Ethan,HOOKER,Ethan HOOKER,Sharks,HOME,L,29/03,14,,,,,,,80
+Ethan,HOOKER,Ethan HOOKER,Sharks,AWAY,W,18/04,14,,,,,,,80
+Ethan,HOOKER,Ethan HOOKER,Sharks,AWAY,W,26/04,14,,,,,,,80
+Ethan,HOOKER,Ethan HOOKER,Sharks,HOME,W,09/05,14,1,,,,5,,76
+Ethan,HOOKER,Ethan HOOKER,Sharks,HOME,W,17/05,14,,,,,,,80
+Ethan,HOOKER,Ethan HOOKER,Sharks,HOME,D,31/05,14,1,,,,5,,100
+Ethan,HOOKER,Ethan HOOKER,Sharks,AWAY,L,07/06,14,1,,,,5,,80
+Ethan,HOOKER,Ethan HOOKER,South Africa,HOME,W,12/07,23,,,,,,,24
+Ethan,HOOKER,Ethan HOOKER,South Africa,AWAY,L,06/09,23,,,,,,,22
+Ethan,HOOKER,Ethan HOOKER,South Africa,AWAY,W,13/09,11,,,,,,,80
+Ethan,HOOKER,Ethan HOOKER,South Africa,HOME,W,27/09,11,,,,,,,80
+Ethan,HOOKER,Ethan HOOKER,South Africa,AWAY,W,04/10,11,,,,,,,80
+Malcolm,MARX,Malcolm MARX,South Africa,AWAY,W,10/11,16,,,,,,,35
+Malcolm,MARX,Malcolm MARX,South Africa,AWAY,W,16/11,16,,,,,,,35
+Malcolm,MARX,Malcolm MARX,South Africa,AWAY,W,23/11,16,,,,,,,35
+Malcolm,MARX,Malcolm MARX,Kubota Spears,HOME,W,22/12,16,,,,,,,34
+Malcolm,MARX,Malcolm MARX,Kubota Spears,AWAY,L,28/12,16,,,,,,,36
+Malcolm,MARX,Malcolm MARX,Kubota Spears,AWAY,W,05/01,2,1,,,,5,,51
+Malcolm,MARX,Malcolm MARX,Kubota Spears,AWAY,W,01/02,16,,,,,,,31
+Malcolm,MARX,Malcolm MARX,Kubota Spears,AWAY,W,08/02,16,,,,,,,30
+Malcolm,MARX,Malcolm MARX,Kubota Spears,HOME,W,15/02,16,,,,,,,40
+Malcolm,MARX,Malcolm MARX,Kubota Spears,HOME,W,22/02,2,1,,,,5,,62
+Malcolm,MARX,Malcolm MARX,Kubota Spears,AWAY,L,01/03,2,1,,,,5,,70
+Malcolm,MARX,Malcolm MARX,Kubota Spears,AWAY,W,14/03,16,1,,,,5,,40
+Malcolm,MARX,Malcolm MARX,Kubota Spears,HOME,W,22/03,2,,,,,,,60
+Malcolm,MARX,Malcolm MARX,Kubota Spears,HOME,W,29/03,2,1,,,,5,,60
+Malcolm,MARX,Malcolm MARX,Kubota Spears,AWAY,W,06/04,2,1,,,,5,,61
+Malcolm,MARX,Malcolm MARX,Kubota Spears,HOME,W,13/04,2,1,,,,5,,64
+Malcolm,MARX,Malcolm MARX,Kubota Spears,HOME,W,26/04,2,2,,,,10,,59
+Malcolm,MARX,Malcolm MARX,Kubota Spears,HOME,D,03/05,2,,,,,,,61
+Malcolm,MARX,Malcolm MARX,Kubota Spears,AWAY,W,10/05,16,,,,,,,39
+Malcolm,MARX,Malcolm MARX,Kubota Spears,HOME,W,18/05,2,,,,,,,80
+Malcolm,MARX,Malcolm MARX,Kubota Spears,AWAY,W,25/05,2,1,,,,5,,70
+Malcolm,MARX,Malcolm MARX,Kubota Spears,AWAY,L,01/06,2,,,,,,,72
+Malcolm,MARX,Malcolm MARX,South Africa,HOME,W,28/06,2,1,,,,5,,44
+Malcolm,MARX,Malcolm MARX,South Africa,HOME,W,05/07,2,,,,,,,47
+Malcolm,MARX,Malcolm MARX,South Africa,HOME,W,12/07,2,1,,,,5,,61
+Malcolm,MARX,Malcolm MARX,South Africa,HOME,L,16/08,2,,,,,,,59
+Malcolm,MARX,Malcolm MARX,South Africa,HOME,W,23/08,2,,,,,,,77
+Malcolm,MARX,Malcolm MARX,South Africa,AWAY,L,06/09,2,1,,,,5,,67
+Malcolm,MARX,Malcolm MARX,South Africa,AWAY,W,13/09,2,,,,,,,62
+Malcolm,MARX,Malcolm MARX,South Africa,HOME,W,27/09,2,1,,,,5,1,70
+Malcolm,MARX,Malcolm MARX,South Africa,AWAY,W,04/10,2,2,,,,10,,60
+André,ESTERHUIZEN,André ESTERHUIZEN,Sharks,AWAY,L,28/09,12,2,,,,10,,80
+André,ESTERHUIZEN,André ESTERHUIZEN,Sharks,AWAY,W,05/10,12,,,,,,,80
+André,ESTERHUIZEN,André ESTERHUIZEN,Sharks,AWAY,L,12/10,12,,,,,,,80
+André,ESTERHUIZEN,André ESTERHUIZEN,Sharks,HOME,W,19/10,12,,,,,,,80
+André,ESTERHUIZEN,André ESTERHUIZEN,Sharks,HOME,W,26/10,12,1,,,,5,,59
+André,ESTERHUIZEN,André ESTERHUIZEN,South Africa,AWAY,W,10/11,12,,,,,,,80
+André,ESTERHUIZEN,André ESTERHUIZEN,Sharks,HOME,W,30/11,12,1,,,,5,,80
+André,ESTERHUIZEN,André ESTERHUIZEN,Sharks,HOME,W,07/12,12,,,,,,,80
+André,ESTERHUIZEN,André ESTERHUIZEN,Sharks,HOME,W,21/12,12,,,,,,,80
+André,ESTERHUIZEN,André ESTERHUIZEN,Sharks,AWAY,L,28/12,12,,,,,,,47
+André,ESTERHUIZEN,André ESTERHUIZEN,Sharks,HOME,W,22/03,23,,,,,,,17
+André,ESTERHUIZEN,André ESTERHUIZEN,Sharks,HOME,L,29/03,12,,,,,,,80
+André,ESTERHUIZEN,André ESTERHUIZEN,Sharks,AWAY,L,06/04,12,,,,,,,59
+André,ESTERHUIZEN,André ESTERHUIZEN,Sharks,AWAY,W,18/04,12,,,,,,,80
+André,ESTERHUIZEN,André ESTERHUIZEN,Sharks,AWAY,W,26/04,12,,,,,,,80
+André,ESTERHUIZEN,André ESTERHUIZEN,Sharks,HOME,W,09/05,12,1,,,,5,,80
+André,ESTERHUIZEN,André ESTERHUIZEN,Sharks,HOME,W,17/05,12,,,,,,,80
+André,ESTERHUIZEN,André ESTERHUIZEN,Sharks,HOME,D,31/05,12,,,,,,,100
+André,ESTERHUIZEN,André ESTERHUIZEN,Sharks,AWAY,L,07/06,12,,,,,,,80
+André,ESTERHUIZEN,André ESTERHUIZEN,South Africa,HOME,W,28/06,23,,,,,,,36
+André,ESTERHUIZEN,André ESTERHUIZEN,South Africa,HOME,W,12/07,12,,,,,,,80
+André,ESTERHUIZEN,André ESTERHUIZEN,South Africa,HOME,L,16/08,12,1,,,,5,,80
+André,ESTERHUIZEN,André ESTERHUIZEN,South Africa,HOME,W,23/08,21,,,,,,,14
+André,ESTERHUIZEN,André ESTERHUIZEN,South Africa,AWAY,W,13/09,23,1,,,,5,,43
+André,ESTERHUIZEN,André ESTERHUIZEN,South Africa,HOME,W,27/09,23,,,,,,,24
+Jean,KLEYN,Jean KLEYN,Munster,HOME,W,21/09,4,,,,,,,54
+Jean,KLEYN,Jean KLEYN,Munster,AWAY,L,28/09,4,,,,,,,80
+Jean,KLEYN,Jean KLEYN,Munster,HOME,W,05/10,4,,,,,,,63
+Jean,KLEYN,Jean KLEYN,Munster,AWAY,L,12/10,4,,,,,,,49
+Jean,KLEYN,Jean KLEYN,Munster,AWAY,L,19/10,4,,,,,,,64
+Jean,KLEYN,Jean KLEYN,Munster,AWAY,L,26/10,4,,,,,,,49
+Jean,KLEYN,Jean KLEYN,Munster,AWAY,W,29/03,19,,,,,,,24
+Jean,KLEYN,Jean KLEYN,Munster,AWAY,W,05/04,4,,,,,,,53
+Jean,KLEYN,Jean KLEYN,Munster,AWAY,L,12/04,4,,,,,,,57
+Jean,KLEYN,Jean KLEYN,Munster,HOME,L,19/04,4,,,,,,,66
+Jean,KLEYN,Jean KLEYN,Munster,AWAY,L,25/04,19,,,,,,,21
+Jean,KLEYN,Jean KLEYN,Munster,HOME,W,09/05,4,,,,,,,48
+Jean,KLEYN,Jean KLEYN,Munster,HOME,W,16/05,4,,,,,,,74
+Jean,KLEYN,Jean KLEYN,Munster,AWAY,D,31/05,4,,,,,,,100
+Jean,KLEYN,Jean KLEYN,South Africa,HOME,W,28/06,4,,,,,,,54
+Eben,ETZEBETH,Eben ETZEBETH,Sharks,HOME,W,19/10,4,,,,,,,80
+Eben,ETZEBETH,Eben ETZEBETH,Sharks,HOME,W,26/10,4,,,,,,,80
+Eben,ETZEBETH,Eben ETZEBETH,South Africa,AWAY,W,10/11,4,,,,,,,80
+Eben,ETZEBETH,Eben ETZEBETH,South Africa,AWAY,W,16/11,4,,,,,,,66
+Eben,ETZEBETH,Eben ETZEBETH,South Africa,AWAY,W,23/11,4,1,,,,5,,29
+Eben,ETZEBETH,Eben ETZEBETH,Sharks,HOME,W,07/12,4,,,,,,1,66
+Eben,ETZEBETH,Eben ETZEBETH,Sharks,AWAY,W,18/04,4,,,,,,1,70
+Eben,ETZEBETH,Eben ETZEBETH,Sharks,HOME,W,09/05,4,,,,,,,28
+Eben,ETZEBETH,Eben ETZEBETH,Sharks,HOME,W,17/05,4,,,,,,,80
+Eben,ETZEBETH,Eben ETZEBETH,Sharks,HOME,D,31/05,4,,,,,,,100
+Eben,ETZEBETH,Eben ETZEBETH,South Africa,HOME,W,05/07,4,,,,,,,47
+Eben,ETZEBETH,Eben ETZEBETH,South Africa,HOME,W,19/07,4,,,,,,,44
+Eben,ETZEBETH,Eben ETZEBETH,South Africa,HOME,L,16/08,4,,,,,,,80
+Eben,ETZEBETH,Eben ETZEBETH,South Africa,HOME,W,23/08,19,1,,,,5,,36
+Eben,ETZEBETH,Eben ETZEBETH,South Africa,AWAY,L,06/09,4,,,,,,,80
+Eben,ETZEBETH,Eben ETZEBETH,South Africa,HOME,W,27/09,4,,,,,,,47
+Eben,ETZEBETH,Eben ETZEBETH,South Africa,AWAY,W,04/10,4,,,,,,,47
+Ruan,NORTJÉ,Ruan NORTJÉ,Bulls,HOME,W,05/10,5,,,,,,,80
+Ruan,NORTJÉ,Ruan NORTJÉ,Bulls,AWAY,W,12/10,5,,,,,,,77
+Ruan,NORTJÉ,Ruan NORTJÉ,Bulls,HOME,W,18/01,5,,,,,,,54
+Ruan,NORTJÉ,Ruan NORTJÉ,Bulls,AWAY,W,25/01,5,,,,,,,5
+Ruan,NORTJÉ,Ruan NORTJÉ,Bulls,HOME,W,29/03,19,,,,,,,28
+Ruan,NORTJÉ,Ruan NORTJÉ,Bulls,AWAY,W,05/04,19,,,,,,,40
+Ruan,NORTJÉ,Ruan NORTJÉ,Bulls,AWAY,L,12/04,4,,,,,,,56
+Ruan,NORTJÉ,Ruan NORTJÉ,Bulls,AWAY,W,19/04,5,,,,,,,80
+Ruan,NORTJÉ,Ruan NORTJÉ,Bulls,AWAY,W,25/04,7,,,,,,,80
+Ruan,NORTJÉ,Ruan NORTJÉ,Bulls,HOME,W,10/05,7,,,,,,,80
+Ruan,NORTJÉ,Ruan NORTJÉ,Bulls,HOME,W,17/05,7,,,,,,,80
+Ruan,NORTJÉ,Ruan NORTJÉ,Bulls,HOME,W,31/05,7,1,,,,5,,80
+Ruan,NORTJÉ,Ruan NORTJÉ,Bulls,HOME,W,07/06,7,,,,,,,76
+Ruan,NORTJÉ,Ruan NORTJÉ,Bulls,AWAY,L,14/06,7,,,,,,,80
+Ruan,NORTJÉ,Ruan NORTJÉ,South Africa,HOME,W,12/07,5,,,,,,,80
+Ruan,NORTJÉ,Ruan NORTJÉ,South Africa,HOME,W,19/07,5,,,,,,,80
+Ruan,NORTJÉ,Ruan NORTJÉ,South Africa,HOME,W,23/08,5,,,,,,,44
+Ruan,NORTJÉ,Ruan NORTJÉ,South Africa,AWAY,L,06/09,5,,,,,,,50
+Ruan,NORTJÉ,Ruan NORTJÉ,South Africa,AWAY,W,13/09,5,,,,,,,80
+Ruan,NORTJÉ,Ruan NORTJÉ,South Africa,HOME,W,27/09,5,,,,,,,80
+Ruan,NORTJÉ,Ruan NORTJÉ,South Africa,AWAY,W,04/10,5,,,,,,,80
+Cobus,REINACH,Cobus REINACH,Montpellier,HOME,W,12/10,9,,,,,,,54
+Cobus,REINACH,Cobus REINACH,Montpellier,AWAY,L,19/10,9,,,,,,,49
+Cobus,REINACH,Cobus REINACH,Montpellier,HOME,W,26/10,9,,,,,,,69
+Cobus,REINACH,Cobus REINACH,South Africa,AWAY,W,16/11,21,,,,,,,20
+Cobus,REINACH,Cobus REINACH,South Africa,AWAY,W,23/11,22,,,,,,,20
+Cobus,REINACH,Cobus REINACH,Montpellier,HOME,W,21/12,20,,,,,,,16
+Cobus,REINACH,Cobus REINACH,Montpellier,AWAY,W,28/12,9,1,,,,5,,80
+Cobus,REINACH,Cobus REINACH,Montpellier,HOME,W,04/01,9,1,,,,5,,19
+Cobus,REINACH,Cobus REINACH,Montpellier,AWAY,L,25/01,9,,,,,,,80
+Cobus,REINACH,Cobus REINACH,Montpellier,HOME,L,15/02,9,,,,,,,80
+Cobus,REINACH,Cobus REINACH,Montpellier,AWAY,L,22/02,9,,,,,,,57
+Cobus,REINACH,Cobus REINACH,Montpellier,HOME,W,01/03,9,,,,,,,80
+Cobus,REINACH,Cobus REINACH,Montpellier,AWAY,L,22/03,9,1,,,,5,,47
+Cobus,REINACH,Cobus REINACH,Montpellier,HOME,W,29/03,20,,,,,,,39
+Cobus,REINACH,Cobus REINACH,Montpellier,AWAY,L,19/04,9,1,,,,5,,62
+Cobus,REINACH,Cobus REINACH,Montpellier,HOME,W,26/04,9,,,,,,,77
+Cobus,REINACH,Cobus REINACH,Montpellier,HOME,W,11/05,21,,,,,,,14
+Cobus,REINACH,Cobus REINACH,Montpellier,HOME,L,07/06,9,,,,,,,48
+Cobus,REINACH,Cobus REINACH,South Africa,HOME,W,28/06,21,,,,,,,36
+Cobus,REINACH,Cobus REINACH,South Africa,HOME,W,12/07,21,,,,,,,24
+Cobus,REINACH,Cobus REINACH,South Africa,HOME,L,16/08,21,,,,,,,13
+Cobus,REINACH,Cobus REINACH,South Africa,HOME,W,23/08,22,,,,,,,20
+Cobus,REINACH,Cobus REINACH,South Africa,AWAY,L,06/09,21,1,,,,5,,33
+Cobus,REINACH,Cobus REINACH,South Africa,AWAY,W,13/09,9,,,,,,,72
+Cobus,REINACH,Cobus REINACH,South Africa,HOME,W,27/09,9,,,,,,,56
+Cobus,REINACH,Cobus REINACH,South Africa,AWAY,W,04/10,9,2,,,,10,,67
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,Bulls,HOME,W,05/10,11,1,,,,5,,67
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,Bulls,AWAY,W,12/10,11,2,,,,10,,80
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,Bulls,AWAY,L,18/10,11,1,,,,5,,80
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,Bulls,AWAY,W,25/10,11,,,,,,,80
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,South Africa,AWAY,W,16/11,11,,,,,,,80
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,South Africa,AWAY,W,23/11,11,1,,,,5,,80
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,Sagamihara,HOME,W,22/12,15,1,,,,5,,67
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,Sagamihara,AWAY,L,29/12,15,,,,,,,54
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,Sagamihara,HOME,L,04/01,14,1,,,,5,,80
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,Sagamihara,HOME,W,12/01,14,2,,,,10,,62
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,Sagamihara,AWAY,L,18/01,14,,,,,,,80
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,Sagamihara,HOME,L,01/02,15,,,,,,,80
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,Sagamihara,HOME,W,09/02,15,1,,,,5,,80
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,Sagamihara,AWAY,L,16/02,15,1,,,,5,,80
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,Sagamihara,HOME,L,01/03,15,,,,,,,80
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,Sagamihara,HOME,W,16/03,15,,,,,,,80
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,Sagamihara,AWAY,W,22/03,15,1,,,,5,,80
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,Sagamihara,AWAY,L,05/04,15,,,,,,,5
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,South Africa,HOME,W,28/06,11,1,,,,5,,80
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,South Africa,HOME,W,05/07,11,1,,,,5,,80
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,South Africa,HOME,W,19/07,11,1,,,,5,,80
+Kurt-Lee,ARENDSE,Kurt-Lee ARENDSE,South Africa,HOME,L,16/08,11,1,,,,5,,67
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,HOME,W,05/10,11,2,,,,10,,61
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,AWAY,W,13/10,11,,,,,,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,AWAY,W,19/10,11,1,,,,5,,73
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,AWAY,L,26/10,11,,,,,,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,AWAY,L,30/11,11,,,,,,,73
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,HOME,W,14/12,11,1,,,,5,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,AWAY,L,21/12,11,1,,,,5,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,AWAY,L,11/01,11,,,,,,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,HOME,W,18/01,11,,,,,,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,HOME,L,25/01,11,,,,,,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,HOME,W,15/02,11,,,,,,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,AWAY,L,22/02,11,,,,,,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,HOME,W,01/03,11,1,,,,5,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,AWAY,L,08/03,11,,,,,,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,AWAY,L,21/03,11,,,,,,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,AWAY,L,29/03,11,,,,,,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,AWAY,L,04/04,11,,,,,,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,HOME,L,19/04,11,1,,,,5,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,HOME,W,26/04,11,1,,,,5,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,HOME,L,11/05,11,,,,,,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,Lions,HOME,W,17/05,11,1,,,,5,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,South Africa,HOME,W,12/07,14,2,,,,10,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,South Africa,HOME,W,19/07,14,2,,,,10,,80
+Edwill VAN DER,MERWE,Edwill VAN DER MERWE,South Africa,HOME,L,16/08,14,,,,,,,59
+Pieter-Steph DU,TOIT,Pieter-Steph DU TOIT,South Africa,AWAY,W,10/11,21,,,,,,,35
+Pieter-Steph DU,TOIT,Pieter-Steph DU TOIT,South Africa,AWAY,W,16/11,7,1,,,,5,,74
+Pieter-Steph DU,TOIT,Pieter-Steph DU TOIT,South Africa,HOME,W,12/07,7,,,,,,,80
+Pieter-Steph DU,TOIT,Pieter-Steph DU TOIT,South Africa,HOME,W,19/07,7,,,,,,,80
+Pieter-Steph DU,TOIT,Pieter-Steph DU TOIT,South Africa,HOME,L,16/08,7,,,,,,,80
+Pieter-Steph DU,TOIT,Pieter-Steph DU TOIT,South Africa,AWAY,L,06/09,7,,,,,,,80
+Pieter-Steph DU,TOIT,Pieter-Steph DU TOIT,South Africa,AWAY,W,13/09,7,,,,,,,80
+Pieter-Steph DU,TOIT,Pieter-Steph DU TOIT,South Africa,HOME,W,27/09,7,2,,,,10,,80
+Pieter-Steph DU,TOIT,Pieter-Steph DU TOIT,South Africa,AWAY,W,04/10,7,,,,,,,80
+Huw,JONES,Huw JONES,Glasgow,AWAY,W,04/10,13,1,,,,5,,80
+Huw,JONES,Huw JONES,Glasgow,HOME,W,11/10,13,2,,,,10,,80
+Huw,JONES,Huw JONES,Glasgow,AWAY,W,26/10,13,,,,,,,80
+Huw,JONES,Huw JONES,Scotland,HOME,W,02/11,13,2,,,,10,,80
+Huw,JONES,Huw JONES,Scotland,HOME,L,10/11,13,,,,,,,80
+Huw,JONES,Huw JONES,Scotland,HOME,W,24/11,13,,,,,,,80
+Huw,JONES,Huw JONES,Glasgow,HOME,W,07/12,13,1,,,,5,,80
+Huw,JONES,Huw JONES,Glasgow,HOME,W,22/12,13,1,,,,5,,80
+Huw,JONES,Huw JONES,Glasgow,AWAY,L,28/12,13,,,,,,,80
+Huw,JONES,Huw JONES,Glasgow,HOME,W,10/01,13,,,,,,,80
+Huw,JONES,Huw JONES,Glasgow,AWAY,L,18/01,13,,,,,,,80
+Huw,JONES,Huw JONES,Scotland,HOME,W,01/02,13,3,,,,15,,80
+Huw,JONES,Huw JONES,Scotland,HOME,L,09/02,13,,,,,,,80
+Huw,JONES,Huw JONES,Scotland,AWAY,L,22/02,13,1,,,,5,,64
+Huw,JONES,Huw JONES,Scotland,HOME,W,08/03,13,,,,,,,80
+Huw,JONES,Huw JONES,Scotland,AWAY,L,15/03,13,,,,,,,66
+Huw,JONES,Huw JONES,Glasgow,AWAY,L,10/05,13,1,,,,5,,80
+Huw,JONES,Huw JONES,Glasgow,AWAY,L,17/05,13,,,,,,,80
+Huw,JONES,Huw JONES,Lions,AWAY,W,19/07,13,,,,,,,80
+Huw,JONES,Huw JONES,Lions,AWAY,W,26/07,13,1,,,,5,,60
+Huw,JONES,Huw JONES,Lions,AWAY,L,02/08,13,,,,,,,80
+Jasper,WIESE,Jasper WIESE,South Africa,AWAY,W,10/11,22,1,,,,5,,35
+Jasper,WIESE,Jasper WIESE,South Africa,AWAY,W,16/11,8,,,,,,,60
+Jasper,WIESE,Jasper WIESE,South Africa,AWAY,W,23/11,8,,,,,,,60
+Jasper,WIESE,Jasper WIESE,Urayasu,AWAY,L,22/12,21,,,,,,,29
+Jasper,WIESE,Jasper WIESE,Urayasu,HOME,L,28/12,8,,,,,,,80
+Jasper,WIESE,Jasper WIESE,Urayasu,HOME,L,04/01,8,,,,,,,47
+Jasper,WIESE,Jasper WIESE,Urayasu,AWAY,L,11/01,8,,,,,,,61
+Jasper,WIESE,Jasper WIESE,Urayasu,AWAY,L,19/01,8,1,,,,5,,80
+Jasper,WIESE,Jasper WIESE,Urayasu,AWAY,L,01/02,8,1,,,,5,,51
+Jasper,WIESE,Jasper WIESE,Urayasu,HOME,W,08/02,8,,,,,,,63
+Jasper,WIESE,Jasper WIESE,Urayasu,AWAY,L,15/02,8,,,,,,,76
+Jasper,WIESE,Jasper WIESE,Urayasu,HOME,L,01/03,8,,,,,,,80
+Jasper,WIESE,Jasper WIESE,South Africa,HOME,W,05/07,8,,,,,,,54
+Jasper,WIESE,Jasper WIESE,South Africa,HOME,W,12/07,8,,,,,,1,20
+Jasper,WIESE,Jasper WIESE,South Africa,AWAY,W,13/09,8,,,,,,,80
+Jasper,WIESE,Jasper WIESE,South Africa,HOME,W,27/09,8,,,,,,,72
+Jasper,WIESE,Jasper WIESE,South Africa,AWAY,W,04/10,8,,,,,,,80
+Thomas DU,TOIT,Thomas DU TOIT,Bath,HOME,L,05/10,3,,,,,,,63
+Thomas DU,TOIT,Thomas DU TOIT,Bath,AWAY,W,12/10,3,,,,,,,77
+Thomas DU,TOIT,Thomas DU TOIT,Bath,AWAY,W,19/10,18,1,,,,5,,31
+Thomas DU,TOIT,Thomas DU TOIT,Bath,HOME,W,26/10,3,1,,,,5,,70
+Thomas DU,TOIT,Thomas DU TOIT,South Africa,AWAY,W,10/11,3,1,,,,5,,45
+Thomas DU,TOIT,Thomas DU TOIT,South Africa,AWAY,W,23/11,1,,,,,,,45
+Thomas DU,TOIT,Thomas DU TOIT,Bath,HOME,W,30/11,1,,,,,,,79
+Thomas DU,TOIT,Thomas DU TOIT,Bath,HOME,L,06/12,1,,,,,,,65
+Thomas DU,TOIT,Thomas DU TOIT,Bath,AWAY,L,15/12,18,1,,,,5,,35
+Thomas DU,TOIT,Thomas DU TOIT,Bath,AWAY,W,21/12,18,,,,,,,23
+Thomas DU,TOIT,Thomas DU TOIT,Bath,HOME,W,28/12,3,1,,,,5,,57
+Thomas DU,TOIT,Thomas DU TOIT,Bath,AWAY,L,05/01,18,,,,,,,22
+Thomas DU,TOIT,Thomas DU TOIT,Bath,HOME,W,12/01,3,2,,,,10,,57
+Thomas DU,TOIT,Thomas DU TOIT,Bath,AWAY,L,18/01,18,,,,,,,32
+Thomas DU,TOIT,Thomas DU TOIT,Bath,AWAY,W,26/01,3,,,,,,,69
+Thomas DU,TOIT,Thomas DU TOIT,Bath,HOME,W,28/02,18,,,,,,,40
+Thomas DU,TOIT,Thomas DU TOIT,Bath,AWAY,W,16/03,18,1,,,,5,,40
+Thomas DU,TOIT,Thomas DU TOIT,Bath,HOME,W,23/03,3,1,,,,5,,40
+Thomas DU,TOIT,Thomas DU TOIT,Bath,HOME,W,29/03,18,,,,,,,29
+Thomas DU,TOIT,Thomas DU TOIT,Bath,HOME,W,13/04,18,,,,,,,27
+Thomas DU,TOIT,Thomas DU TOIT,Bath,AWAY,W,19/04,3,,,,,,,53
+Thomas DU,TOIT,Thomas DU TOIT,Bath,HOME,W,26/04,17,,,,,,,26
+Thomas DU,TOIT,Thomas DU TOIT,Bath,AWAY,W,03/05,17,,,,,,,32
+Thomas DU,TOIT,Thomas DU TOIT,Bath,HOME,W,17/05,3,,,,,,,49
+Thomas DU,TOIT,Thomas DU TOIT,Bath,HOME,W,23/05,18,,,,,,,30
+Thomas DU,TOIT,Thomas DU TOIT,Bath,HOME,W,06/06,18,,,,,,,33
+Thomas DU,TOIT,Thomas DU TOIT,Bath,HOME,W,14/06,3,1,,,,5,,61
+Thomas DU,TOIT,Thomas DU TOIT,South Africa,HOME,W,12/07,1,,,,,,,29
+Thomas DU,TOIT,Thomas DU TOIT,South Africa,HOME,W,19/07,17,,,,,,,36
+Thomas DU,TOIT,Thomas DU TOIT,South Africa,HOME,W,23/08,3,,,,,,,63
+Thomas DU,TOIT,Thomas DU TOIT,South Africa,AWAY,L,06/09,3,,,,,,,61
+Thomas DU,TOIT,Thomas DU TOIT,South Africa,AWAY,W,13/09,3,,,,,,,41
+Thomas DU,TOIT,Thomas DU TOIT,South Africa,HOME,W,27/09,3,,,,,,,45
+Thomas DU,TOIT,Thomas DU TOIT,South Africa,AWAY,W,04/10,3,,,,,,,49
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,HOME,W,28/09,16,,,,,,,29
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,HOME,W,05/10,2,1,,,,5,,51
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,AWAY,W,12/10,2,,,,,,,55
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,AWAY,L,18/10,16,,,,,,1,14
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,AWAY,W,25/10,2,,,,,,,47
+Johan,GROBBELAAR,Johan GROBBELAAR,South Africa,AWAY,W,23/11,2,,,,,,,45
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,AWAY,W,30/11,16,,,,,,,29
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,AWAY,L,07/12,2,,,,,,,50
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,AWAY,L,21/12,16,,,,,,,40
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,HOME,W,18/01,2,,,,,,,58
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,AWAY,W,25/01,2,,,,,,,50
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,AWAY,W,08/02,2,,,,,,,51
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,HOME,L,15/02,2,2,,,,10,,74
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,HOME,W,22/02,2,,,,,,,80
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,HOME,L,01/03,2,,,,,,,51
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,HOME,W,22/03,16,1,,,,5,,39
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,AWAY,L,12/04,16,,,,,,,21
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,AWAY,W,19/04,16,,,,,,,23
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,AWAY,W,25/04,2,1,,,,5,,52
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,HOME,W,10/05,2,,,,,,,51
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,HOME,W,17/05,16,,,,,,,22
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,HOME,W,31/05,2,,,,,,,49
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,HOME,W,07/06,2,,,,,,,53
+Johan,GROBBELAAR,Johan GROBBELAAR,Bulls,AWAY,L,14/06,2,,,,,,,44
+Sam,PRENDERGAST,Sam PRENDERGAST,Leinster,AWAY,W,20/09,10,,,,4,8,,58
+Sam,PRENDERGAST,Sam PRENDERGAST,Leinster,HOME,W,26/10,10,,,1,2,7,,63
+Sam,PRENDERGAST,Sam PRENDERGAST,Ireland,HOME,W,15/11,22,,,,,,,19
+Sam,PRENDERGAST,Sam PRENDERGAST,Ireland,HOME,W,23/11,10,,,,5,10,1,70
+Sam,PRENDERGAST,Sam PRENDERGAST,Ireland,HOME,W,30/11,10,,,1,1,5,,65
+Sam,PRENDERGAST,Sam PRENDERGAST,Leinster,AWAY,W,08/12,10,2,,,5,20,,80
+Sam,PRENDERGAST,Sam PRENDERGAST,Leinster,HOME,W,14/12,10,,,1,1,5,,64
+Sam,PRENDERGAST,Sam PRENDERGAST,Leinster,AWAY,W,27/12,10,1,,,3,11,,63
+Sam,PRENDERGAST,Sam PRENDERGAST,Leinster,AWAY,W,12/01,10,,,3,1,11,,60
+Sam,PRENDERGAST,Sam PRENDERGAST,Leinster,HOME,W,18/01,10,,,,4,8,,61
+Sam,PRENDERGAST,Sam PRENDERGAST,Ireland,HOME,W,01/02,10,,,1,,3,,58
+Sam,PRENDERGAST,Sam PRENDERGAST,Ireland,AWAY,W,09/02,10,,,2,3,12,,80
+Sam,PRENDERGAST,Sam PRENDERGAST,Ireland,AWAY,W,22/02,10,,,5,1,17,,80
+Sam,PRENDERGAST,Sam PRENDERGAST,Ireland,HOME,L,08/03,10,,,2,3,12,,80
+Sam,PRENDERGAST,Sam PRENDERGAST,Ireland,AWAY,W,15/03,22,,,,,,,16
+Sam,PRENDERGAST,Sam PRENDERGAST,Leinster,HOME,W,05/04,10,1,,,3,11,,80
+Sam,PRENDERGAST,Sam PRENDERGAST,Leinster,HOME,W,11/04,10,,,,5,10,,60
+Sam,PRENDERGAST,Sam PRENDERGAST,Leinster,HOME,W,19/04,22,,,,1,2,,19
+Sam,PRENDERGAST,Sam PRENDERGAST,Leinster,HOME,L,03/05,10,,,1,3,9,,78
+Sam,PRENDERGAST,Sam PRENDERGAST,Leinster,HOME,W,10/05,10,1,,,6,17,,49
+Sam,PRENDERGAST,Sam PRENDERGAST,Leinster,HOME,W,17/05,10,,,1,1,5,,60
+Sam,PRENDERGAST,Sam PRENDERGAST,Leinster,HOME,W,31/05,10,,,3,2,13,,80
+Sam,PRENDERGAST,Sam PRENDERGAST,Leinster,HOME,W,07/06,10,,,1,2,7,,60
+Sam,PRENDERGAST,Sam PRENDERGAST,Leinster,HOME,W,14/06,10,,,2,2,10,,68
+Sam,PRENDERGAST,Sam PRENDERGAST,Ireland,AWAY,W,05/07,10,,,2,4,14,,70
+Franco,MOSTERT,Franco MOSTERT,South Africa,AWAY,W,10/11,5,,,,,,,40
+Franco,MOSTERT,Franco MOSTERT,South Africa,AWAY,W,23/11,5,1,,,,5,,80
+Franco,MOSTERT,Franco MOSTERT,Mie Honda Heat,HOME,W,21/12,5,,,,,,,80
+Franco,MOSTERT,Franco MOSTERT,Mie Honda Heat,AWAY,W,28/12,5,,,,,,,80
+Franco,MOSTERT,Franco MOSTERT,Mie Honda Heat,HOME,L,05/01,5,,,,,,,80
+Franco,MOSTERT,Franco MOSTERT,Mie Honda Heat,AWAY,L,12/01,5,,,,,,,17
+Franco,MOSTERT,Franco MOSTERT,Mie Honda Heat,HOME,L,02/02,5,,,,,,,58
+Franco,MOSTERT,Franco MOSTERT,Mie Honda Heat,AWAY,L,08/02,5,,,,,,,80
+Franco,MOSTERT,Franco MOSTERT,Mie Honda Heat,HOME,W,16/02,6,,,,,,,69
+Franco,MOSTERT,Franco MOSTERT,Mie Honda Heat,HOME,W,23/02,6,,,,,,,80
+Franco,MOSTERT,Franco MOSTERT,Mie Honda Heat,AWAY,L,02/03,6,,,,,,,80
+Franco,MOSTERT,Franco MOSTERT,Mie Honda Heat,AWAY,L,15/03,5,,,,,,,80
+Franco,MOSTERT,Franco MOSTERT,Mie Honda Heat,HOME,L,22/03,5,1,,,,5,1,68
+Franco,MOSTERT,Franco MOSTERT,Mie Honda Heat,AWAY,L,05/04,5,,,,,,,80
+Franco,MOSTERT,Franco MOSTERT,Mie Honda Heat,HOME,L,11/04,5,,,,,,,51
+Franco,MOSTERT,Franco MOSTERT,Mie Honda Heat,AWAY,L,26/04,5,,,,,,,53
+Franco,MOSTERT,Franco MOSTERT,Mie Honda Heat,HOME,L,04/05,5,1,,,,5,,69
+Franco,MOSTERT,Franco MOSTERT,Mie Honda Heat,AWAY,W,24/05,5,1,,,,5,,80
+Franco,MOSTERT,Franco MOSTERT,Mie Honda Heat,HOME,W,30/05,5,1,,,,5,1,70
+Franco,MOSTERT,Franco MOSTERT,South Africa,HOME,W,28/06,19,,,,,,,36
+Franco,MOSTERT,Franco MOSTERT,South Africa,HOME,W,05/07,20,,,,,,,33
+Franco,MOSTERT,Franco MOSTERT,South Africa,HOME,L,16/08,19,,,,,,,35
+Franco,MOSTERT,Franco MOSTERT,South Africa,HOME,W,23/08,7,,,,,,,66
+Zach,PORTHEN,Zach PORTHEN,Stormers,HOME,W,10/05,18,,,,,,,23
+Handré,POLLARD,Handré POLLARD,Leicester,HOME,W,12/10,10,,,1,3,9,1,70
+Handré,POLLARD,Handré POLLARD,Leicester,HOME,W,20/10,10,1,,1,3,14,,70
+Handré,POLLARD,Handré POLLARD,Leicester,AWAY,W,26/10,10,,,2,2,10,,80
+Handré,POLLARD,Handré POLLARD,South Africa,AWAY,W,10/11,10,,,2,3,12,,80
+Handré,POLLARD,Handré POLLARD,South Africa,AWAY,W,16/11,22,,,1,1,5,,35
+Handré,POLLARD,Handré POLLARD,South Africa,AWAY,W,23/11,23,,,,,,,30
+Handré,POLLARD,Handré POLLARD,Leicester,AWAY,L,01/12,10,,,2,1,8,,58
+Handré,POLLARD,Handré POLLARD,Leicester,HOME,W,14/12,10,1,,,6,17,,65
+Handré,POLLARD,Handré POLLARD,Leicester,HOME,L,21/12,10,,,,2,4,,67
+Handré,POLLARD,Handré POLLARD,Leicester,AWAY,D,28/12,10,,,2,4,14,,80
+Handré,POLLARD,Handré POLLARD,Leicester,HOME,W,04/01,10,,,,4,8,,80
+Handré,POLLARD,Handré POLLARD,Leicester,HOME,W,11/01,10,,,,2,4,,61
+Handré,POLLARD,Handré POLLARD,Leicester,AWAY,L,19/01,10,,,,,,,40
+Handré,POLLARD,Handré POLLARD,Leicester,AWAY,L,25/01,10,,,1,4,11,,80
+Handré,POLLARD,Handré POLLARD,Leicester,AWAY,W,21/03,10,,,3,2,13,,80
+Handré,POLLARD,Handré POLLARD,Leicester,HOME,L,30/03,10,,1,,2,7,,80
+Handré,POLLARD,Handré POLLARD,Leicester,AWAY,L,05/04,10,,,,2,4,,80
+Handré,POLLARD,Handré POLLARD,Leicester,AWAY,W,20/04,10,,,1,3,9,,79
+Handré,POLLARD,Handré POLLARD,Leicester,HOME,W,26/04,10,,,,4,8,,68
+Handré,POLLARD,Handré POLLARD,Leicester,HOME,W,09/05,10,,,3,5,19,,80
+Handré,POLLARD,Handré POLLARD,Leicester,AWAY,L,17/05,10,,,1,1,5,,80
+Handré,POLLARD,Handré POLLARD,Leicester,HOME,W,31/05,10,,,,4,8,,68
+Handré,POLLARD,Handré POLLARD,Leicester,HOME,W,07/06,10,,,2,,6,,70
+Handré,POLLARD,Handré POLLARD,Leicester,AWAY,L,14/06,10,,,,3,6,,80
+Handré,POLLARD,Handré POLLARD,South Africa,HOME,W,05/07,10,,,,6,12,,80
+Handré,POLLARD,Handré POLLARD,South Africa,HOME,W,19/07,22,1,,,4,13,,26
+Handré,POLLARD,Handré POLLARD,South Africa,HOME,W,23/08,10,,,3,3,15,,80
+Handré,POLLARD,Handré POLLARD,South Africa,AWAY,L,06/09,10,,,1,,3,,64
+Grant,WILLIAMS,Grant WILLIAMS,Sharks,HOME,W,19/10,21,1,,,,5,,28
+Grant,WILLIAMS,Grant WILLIAMS,Sharks,HOME,W,26/10,9,1,,,,5,,59
+Grant,WILLIAMS,Grant WILLIAMS,South Africa,AWAY,W,10/11,23,,,,,,,12
+Grant,WILLIAMS,Grant WILLIAMS,South Africa,AWAY,W,16/11,9,1,,,,5,,60
+Grant,WILLIAMS,Grant WILLIAMS,Sharks,HOME,W,30/11,22,,,,,,,24
+Grant,WILLIAMS,Grant WILLIAMS,Sharks,HOME,W,07/12,9,1,,,,5,,57
+Grant,WILLIAMS,Grant WILLIAMS,Sharks,AWAY,L,19/01,9,,,,,,,80
+Grant,WILLIAMS,Grant WILLIAMS,Sharks,AWAY,W,25/01,9,,,,,,,58
+Grant,WILLIAMS,Grant WILLIAMS,Sharks,AWAY,W,15/02,9,,,,,,,61
+Grant,WILLIAMS,Grant WILLIAMS,Sharks,AWAY,L,01/03,21,,,,,,,33
+Grant,WILLIAMS,Grant WILLIAMS,Sharks,HOME,W,08/03,9,1,,,,5,,80
+Grant,WILLIAMS,Grant WILLIAMS,Sharks,AWAY,W,18/04,21,,,,,,,31
+Grant,WILLIAMS,Grant WILLIAMS,South Africa,HOME,W,12/07,9,1,,,,5,,56
+Grant,WILLIAMS,Grant WILLIAMS,South Africa,HOME,W,19/07,9,,,,,,,65
+Grant,WILLIAMS,Grant WILLIAMS,South Africa,HOME,L,16/08,9,,,,,,,80
+Grant,WILLIAMS,Grant WILLIAMS,South Africa,HOME,W,23/08,9,,,,,,,60
+Grant,WILLIAMS,Grant WILLIAMS,South Africa,AWAY,L,06/09,9,,,,,,,47
+Grant,WILLIAMS,Grant WILLIAMS,South Africa,AWAY,W,13/09,21,,,,,,,42
+Grant,WILLIAMS,Grant WILLIAMS,South Africa,AWAY,W,04/10,21,,,,,,,13
+Ben-Jason,DIXON,Ben-Jason DIXON,Stormers,AWAY,L,28/09,20,,,,,,1,27
+Ben-Jason,DIXON,Ben-Jason DIXON,Stormers,AWAY,W,05/10,7,,,,,,,80
+Ben-Jason,DIXON,Ben-Jason DIXON,Stormers,AWAY,L,12/10,7,,,,,,,80
+Ben-Jason,DIXON,Ben-Jason DIXON,Stormers,HOME,W,19/10,7,,,,,,,72
+Ben-Jason,DIXON,Ben-Jason DIXON,Stormers,HOME,L,26/10,7,,,,,,,14
+Ben-Jason,DIXON,Ben-Jason DIXON,Stormers,AWAY,L,30/11,7,,,,,,,80
+Ben-Jason,DIXON,Ben-Jason DIXON,Stormers,HOME,L,07/12,7,,,,,,,53
+Ben-Jason,DIXON,Ben-Jason DIXON,Stormers,HOME,W,21/12,7,,,,,,,76
+Ben-Jason,DIXON,Ben-Jason DIXON,Stormers,HOME,W,28/12,7,,,,,,,68
+Ben-Jason,DIXON,Ben-Jason DIXON,Stormers,AWAY,L,25/01,7,,,,,,,63
+Ben-Jason,DIXON,Ben-Jason DIXON,Stormers,HOME,L,08/02,7,1,,,,5,,80
+Ben-Jason,DIXON,Ben-Jason DIXON,Stormers,AWAY,L,15/02,7,,,,,,,47
+Ben-Jason,DIXON,Ben-Jason DIXON,Stormers,AWAY,W,01/03,7,,,,,,,65
+Morné VAN DEN,BERG,Morné VAN DEN BERG,Lions,HOME,W,05/10,9,,,,1,2,,80
+Morné VAN DEN,BERG,Morné VAN DEN BERG,Lions,AWAY,W,13/10,9,,,,,,,80
+Morné VAN DEN,BERG,Morné VAN DEN BERG,Lions,AWAY,W,19/10,9,,,,,,,57
+Morné VAN DEN,BERG,Morné VAN DEN BERG,Lions,AWAY,L,26/10,9,,,,,,,80
+Morné VAN DEN,BERG,Morné VAN DEN BERG,Lions,AWAY,L,30/11,9,,,,,,,80
+Morné VAN DEN,BERG,Morné VAN DEN BERG,Lions,HOME,W,14/12,9,1,,,,5,,62
+Morné VAN DEN,BERG,Morné VAN DEN BERG,Lions,AWAY,L,21/12,9,,,,,,,80
+Morné VAN DEN,BERG,Morné VAN DEN BERG,Lions,HOME,W,18/01,9,,,,,,,63
+Morné VAN DEN,BERG,Morné VAN DEN BERG,Lions,HOME,L,25/01,9,,,,,,,71
+Morné VAN DEN,BERG,Morné VAN DEN BERG,Lions,HOME,W,15/02,9,1,,,,5,,77
+Morné VAN DEN,BERG,Morné VAN DEN BERG,Lions,AWAY,L,22/02,9,,,,,,,80
+Morné VAN DEN,BERG,Morné VAN DEN BERG,Lions,HOME,W,01/03,9,,,,,,,67
+Morné VAN DEN,BERG,Morné VAN DEN BERG,Lions,AWAY,L,08/03,9,,,,,,,76
+Morné VAN DEN,BERG,Morné VAN DEN BERG,Lions,AWAY,L,04/04,9,,,,,,,80
+Morné VAN DEN,BERG,Morné VAN DEN BERG,Lions,HOME,L,19/04,9,,,,,,,66
+Morné VAN DEN,BERG,Morné VAN DEN BERG,Lions,HOME,W,26/04,9,,,,,,,55
+Morné VAN DEN,BERG,Morné VAN DEN BERG,South Africa,HOME,W,28/06,9,,,,,,,44
+Morné VAN DEN,BERG,Morné VAN DEN BERG,South Africa,HOME,W,05/07,9,2,,,,10,,54
+Morné VAN DEN,BERG,Morné VAN DEN BERG,South Africa,HOME,W,27/09,21,1,,,,5,,24
+Sacha,FEINBERG-MNGOMEZULU,Sacha FEINBERG-MNGOMEZULU,Stormers,AWAY,L,30/11,10,,1,,,3,,29
+Sacha,FEINBERG-MNGOMEZULU,Sacha FEINBERG-MNGOMEZULU,Stormers,HOME,W,21/12,12,,,,,,,27
+Sacha,FEINBERG-MNGOMEZULU,Sacha FEINBERG-MNGOMEZULU,Stormers,HOME,W,28/12,12,,,,,,,37
+Sacha,FEINBERG-MNGOMEZULU,Sacha FEINBERG-MNGOMEZULU,Stormers,AWAY,W,22/03,10,,,1,3,9,,80
+Sacha,FEINBERG-MNGOMEZULU,Sacha FEINBERG-MNGOMEZULU,Stormers,AWAY,L,28/03,10,,2,,4,14,1,70
+Sacha,FEINBERG-MNGOMEZULU,Sacha FEINBERG-MNGOMEZULU,Stormers,HOME,W,19/04,10,3,,1,3,24,,80
+Sacha,FEINBERG-MNGOMEZULU,Sacha FEINBERG-MNGOMEZULU,Stormers,HOME,W,26/04,10,1,1,2,6,26,,80
+Sacha,FEINBERG-MNGOMEZULU,Sacha FEINBERG-MNGOMEZULU,Stormers,HOME,W,10/05,10,,,1,3,9,,64
+Sacha,FEINBERG-MNGOMEZULU,Sacha FEINBERG-MNGOMEZULU,Stormers,HOME,W,16/05,22,,,1,1,5,,26
+Sacha,FEINBERG-MNGOMEZULU,Sacha FEINBERG-MNGOMEZULU,Stormers,AWAY,L,30/05,10,,,2,1,8,,80
+Sacha,FEINBERG-MNGOMEZULU,Sacha FEINBERG-MNGOMEZULU,South Africa,HOME,W,28/06,10,,,,2,4,,44
+Sacha,FEINBERG-MNGOMEZULU,Sacha FEINBERG-MNGOMEZULU,South Africa,HOME,W,12/07,22,,,,,,,24
+Sacha,FEINBERG-MNGOMEZULU,Sacha FEINBERG-MNGOMEZULU,South Africa,HOME,W,19/07,10,,,,1,2,,54
+Sacha,FEINBERG-MNGOMEZULU,Sacha FEINBERG-MNGOMEZULU,South Africa,HOME,W,23/08,23,,,,,,,26
+Sacha,FEINBERG-MNGOMEZULU,Sacha FEINBERG-MNGOMEZULU,South Africa,AWAY,L,06/09,22,,,,2,4,,33
+Sacha,FEINBERG-MNGOMEZULU,Sacha FEINBERG-MNGOMEZULU,South Africa,AWAY,W,13/09,10,,,,,,,18
+Sacha,FEINBERG-MNGOMEZULU,Sacha FEINBERG-MNGOMEZULU,South Africa,HOME,W,27/09,10,3,,2,8,37,,80
+Sacha,FEINBERG-MNGOMEZULU,Sacha FEINBERG-MNGOMEZULU,South Africa,AWAY,W,04/10,10,,,1,3,9,,67
+Antoine,DUPONT,Antoine DUPONT,Toulouse,HOME,W,12/10,21,3,,,,15,,34
+Antoine,DUPONT,Antoine DUPONT,Toulouse,AWAY,W,19/10,9,,,,,,,80
+Antoine,DUPONT,Antoine DUPONT,Toulouse,HOME,W,27/10,9,,,,,,,80
+Antoine,DUPONT,Antoine DUPONT,France,HOME,W,09/11,9,,,,,,,65
+Antoine,DUPONT,Antoine DUPONT,France,HOME,W,16/11,9,,,,,,,80
+Antoine,DUPONT,Antoine DUPONT,France,HOME,W,22/11,9,,,,,,,80
+Antoine,DUPONT,Antoine DUPONT,Toulouse,HOME,W,08/12,9,1,,,,5,,59
+Antoine,DUPONT,Antoine DUPONT,Toulouse,AWAY,W,15/12,9,1,,,,5,,63
+Antoine,DUPONT,Antoine DUPONT,Toulouse,AWAY,W,11/01,9,,,,,,,80
+Antoine,DUPONT,Antoine DUPONT,Toulouse,HOME,W,19/01,9,2,,,,10,,80
+Antoine,DUPONT,Antoine DUPONT,France,HOME,W,31/01,9,,,,,,,49
+Antoine,DUPONT,Antoine DUPONT,France,AWAY,L,08/02,9,,,,,,,80
+Antoine,DUPONT,Antoine DUPONT,France,AWAY,W,23/02,9,2,,,,10,,80
+Antoine,DUPONT,Antoine DUPONT,France,AWAY,W,08/03,9,,,,,,,28
+Gerhard,STEENEKAMP,Gerhard STEENEKAMP,Bulls,HOME,W,05/10,1,,,,,,,59
+Gerhard,STEENEKAMP,Gerhard STEENEKAMP,Bulls,AWAY,W,12/10,1,,,,,,,51
+Gerhard,STEENEKAMP,Gerhard STEENEKAMP,South Africa,AWAY,W,10/11,17,,,,,,,35
+Gerhard,STEENEKAMP,Gerhard STEENEKAMP,South Africa,AWAY,W,16/11,17,,,,,,1,38
+Gerhard,STEENEKAMP,Gerhard STEENEKAMP,South Africa,AWAY,W,23/11,17,1,,,,5,,35
+Gerhard,STEENEKAMP,Gerhard STEENEKAMP,Bulls,AWAY,W,30/11,17,,,,,,,40
+Gerhard,STEENEKAMP,Gerhard STEENEKAMP,Bulls,AWAY,L,07/12,1,,,,,,,62
+Gerhard,STEENEKAMP,Gerhard STEENEKAMP,Bulls,HOME,L,14/12,1,,,,,,,59
+Gerhard,STEENEKAMP,Gerhard STEENEKAMP,Bulls,AWAY,L,21/12,1,,,,,,,57
+Gerhard,STEENEKAMP,Gerhard STEENEKAMP,Bulls,HOME,W,18/01,1,,,,,,,58
+Gerhard,STEENEKAMP,Gerhard STEENEKAMP,Bulls,AWAY,W,25/01,1,,,,,,,66
+Gerhard,STEENEKAMP,Gerhard STEENEKAMP,Bulls,AWAY,W,08/02,17,,,,,,1,44
+Gerhard,STEENEKAMP,Gerhard STEENEKAMP,Bulls,HOME,L,15/02,17,,,,,,,40
+Gerhard,STEENEKAMP,Gerhard STEENEKAMP,Bulls,HOME,W,22/02,1,,,,,,,60
+Gerhard,STEENEKAMP,Gerhard STEENEKAMP,Bulls,HOME,L,01/03,1,,,,,,,61
+Cheslin,KOLBE,Cheslin KOLBE,South Africa,AWAY,W,16/11,14,2,,,,10,,80
+Cheslin,KOLBE,Cheslin KOLBE,South Africa,AWAY,W,23/11,14,,,,,,,80
+Cheslin,KOLBE,Cheslin KOLBE,Tokyo Sungoliath,HOME,L,21/12,11,,,,,,,22
+Cheslin,KOLBE,Cheslin KOLBE,Tokyo Sungoliath,HOME,D,04/01,11,,,,,,1,43
+Cheslin,KOLBE,Cheslin KOLBE,Tokyo Sungoliath,HOME,D,12/01,11,1,,,,5,,80
+Cheslin,KOLBE,Cheslin KOLBE,Tokyo Sungoliath,AWAY,W,19/01,11,1,,,,5,,80
+Cheslin,KOLBE,Cheslin KOLBE,Tokyo Sungoliath,AWAY,W,08/02,23,,,,,,,31
+Cheslin,KOLBE,Cheslin KOLBE,Tokyo Sungoliath,AWAY,L,16/03,11,1,,,,5,,80
+Cheslin,KOLBE,Cheslin KOLBE,Tokyo Sungoliath,HOME,L,23/03,11,,,,,,,80
+Cheslin,KOLBE,Cheslin KOLBE,Tokyo Sungoliath,HOME,W,29/03,11,1,,,,5,,80
+Cheslin,KOLBE,Cheslin KOLBE,Tokyo Sungoliath,HOME,W,05/04,11,1,,,4,13,,80
+Cheslin,KOLBE,Cheslin KOLBE,Tokyo Sungoliath,AWAY,L,13/04,11,,,,,,,80
+Cheslin,KOLBE,Cheslin KOLBE,Tokyo Sungoliath,AWAY,W,27/04,11,,,,4,8,,67
+Cheslin,KOLBE,Cheslin KOLBE,Tokyo Sungoliath,HOME,W,03/05,11,2,,4,3,28,,80
+Cheslin,KOLBE,Cheslin KOLBE,Tokyo Sungoliath,AWAY,L,10/05,11,,,1,2,7,1,70
+Cheslin,KOLBE,Cheslin KOLBE,Tokyo Sungoliath,AWAY,L,18/05,14,1,,1,1,10,,80
+Cheslin,KOLBE,Cheslin KOLBE,South Africa,HOME,W,28/06,14,1,,,,5,,80
+Cheslin,KOLBE,Cheslin KOLBE,South Africa,HOME,W,05/07,14,,,,,,,80
+Cheslin,KOLBE,Cheslin KOLBE,South Africa,HOME,W,23/08,11,,,,,,,80
+Cheslin,KOLBE,Cheslin KOLBE,South Africa,AWAY,L,06/09,14,,,,,,,80
+Cheslin,KOLBE,Cheslin KOLBE,South Africa,AWAY,W,13/09,14,2,,,,10,,46
+Cheslin,KOLBE,Cheslin KOLBE,South Africa,HOME,W,27/09,14,1,,,,5,,56
+Cheslin,KOLBE,Cheslin KOLBE,South Africa,AWAY,W,04/10,14,,,,,,,80
+Siya,KOLISI,Siya KOLISI,Sharks,HOME,W,19/10,6,1,,,,5,,62
+Siya,KOLISI,Siya KOLISI,Sharks,HOME,W,26/10,8,,,,,,,67
+Siya,KOLISI,Siya KOLISI,South Africa,AWAY,W,10/11,20,,,,,,,35
+Siya,KOLISI,Siya KOLISI,South Africa,AWAY,W,16/11,6,,,,,,,73
+Siya,KOLISI,Siya KOLISI,South Africa,AWAY,W,23/11,6,,,,,,,80
+Siya,KOLISI,Siya KOLISI,Sharks,HOME,W,30/11,8,1,,,,5,,59
+Siya,KOLISI,Siya KOLISI,Sharks,HOME,W,07/12,8,2,,,,10,,80
+Siya,KOLISI,Siya KOLISI,Sharks,AWAY,L,28/12,8,,,,,,,63
+Siya,KOLISI,Siya KOLISI,Sharks,HOME,L,11/01,8,,,,,,,63
+Siya,KOLISI,Siya KOLISI,Sharks,AWAY,L,19/01,8,,,,,,,80
+Siya,KOLISI,Siya KOLISI,Sharks,AWAY,L,01/03,20,1,,,,5,,26
+Siya,KOLISI,Siya KOLISI,Sharks,HOME,W,08/03,8,2,,,,10,,56
+Siya,KOLISI,Siya KOLISI,Sharks,HOME,W,22/03,8,2,,,,10,,80
+Siya,KOLISI,Siya KOLISI,Sharks,HOME,L,29/03,8,,,,,,,80
+Siya,KOLISI,Siya KOLISI,Sharks,AWAY,W,18/04,8,,,,,,,80
+Siya,KOLISI,Siya KOLISI,Sharks,AWAY,W,26/04,8,,,,,,,80
+Siya,KOLISI,Siya KOLISI,Sharks,HOME,W,09/05,8,,,,,,,80
+Siya,KOLISI,Siya KOLISI,Sharks,HOME,D,31/05,8,,,,,,,54
+Siya,KOLISI,Siya KOLISI,Sharks,AWAY,L,07/06,8,,,,,,,54
+Siya,KOLISI,Siya KOLISI,South Africa,HOME,W,19/07,6,,,,,,,69
+Siya,KOLISI,Siya KOLISI,South Africa,HOME,L,16/08,8,1,,,,5,,45
+Siya,KOLISI,Siya KOLISI,South Africa,AWAY,L,06/09,8,,,,,,,56
+Siya,KOLISI,Siya KOLISI,South Africa,AWAY,W,13/09,6,,,,,,,58
+Siya,KOLISI,Siya KOLISI,South Africa,HOME,W,27/09,6,,,,,,,59
+Siya,KOLISI,Siya KOLISI,South Africa,AWAY,W,04/10,6,,,,,,,60
+Damian,PENAUD,Damian PENAUD,Bordeaux,HOME,W,07/09,14,1,,,,5,,68
+Damian,PENAUD,Damian PENAUD,Bordeaux,AWAY,L,14/09,14,1,,,,5,,80
+Damian,PENAUD,Damian PENAUD,Bordeaux,HOME,W,21/09,14,3,,,,15,1,79
+Damian,PENAUD,Damian PENAUD,Bordeaux,HOME,W,12/10,14,,,,,,,80
+Damian,PENAUD,Damian PENAUD,Bordeaux,AWAY,L,20/10,14,,,,,,,80
+Damian,PENAUD,Damian PENAUD,Bordeaux,HOME,W,26/10,14,,,,,,,80
+Damian,PENAUD,Damian PENAUD,Bordeaux,HOME,W,08/12,14,,,,,,,80
+Damian,PENAUD,Damian PENAUD,Bordeaux,AWAY,W,14/12,14,1,,,,5,,71
+Damian,PENAUD,Damian PENAUD,Bordeaux,AWAY,W,21/12,14,,,,,,,80
+Damian,PENAUD,Damian PENAUD,Bordeaux,HOME,W,28/12,14,,,,,,,80
+Damian,PENAUD,Damian PENAUD,Bordeaux,AWAY,W,11/01,14,3,,,,15,,80
+Damian,PENAUD,Damian PENAUD,Bordeaux,HOME,W,19/01,14,6,,,,30,,80
+Damian,PENAUD,Damian PENAUD,France,AWAY,L,08/02,14,1,,,,5,,80
+Damian,PENAUD,Damian PENAUD,Bordeaux,HOME,W,23/02,14,1,,,,5,,80
+Damian,PENAUD,Damian PENAUD,France,AWAY,W,08/03,14,1,,,,5,,80
+Damian,PENAUD,Damian PENAUD,France,HOME,W,15/03,14,,,,,,,71
+Damian,PENAUD,Damian PENAUD,Bordeaux,HOME,W,23/03,14,1,,,,5,,80
+Damian,PENAUD,Damian PENAUD,Bordeaux,HOME,W,06/04,14,1,,,,5,,80
+Damian,PENAUD,Damian PENAUD,Bordeaux,HOME,W,12/04,14,1,,,,5,,80
+Damian,PENAUD,Damian PENAUD,Bordeaux,AWAY,W,19/04,14,,,,,,,80
+Damian,PENAUD,Damian PENAUD,Bordeaux,HOME,L,26/04,14,,,,,,,80
+Damian,PENAUD,Damian PENAUD,Bordeaux,HOME,W,04/05,14,,,,,,,56
+Damian,PENAUD,Damian PENAUD,Bordeaux,AWAY,W,24/05,14,2,,,,10,,80
+Damian,PENAUD,Damian PENAUD,Bordeaux,HOME,W,07/06,14,2,,,,10,,80
+Damian,PENAUD,Damian PENAUD,Bordeaux,HOME,W,21/06,14,1,,,,5,,80
+Damian,PENAUD,Damian PENAUD,Bordeaux,AWAY,L,28/06,14,1,,,,5,,100
+Kwagga,SMITH,Kwagga SMITH,South Africa,AWAY,W,10/11,8,,,,,,,45
+Kwagga,SMITH,Kwagga SMITH,South Africa,AWAY,W,16/11,20,,,,,,,20
+Kwagga,SMITH,Kwagga SMITH,Shizuoka Blue Revs,HOME,W,21/12,7,,,,,,,80
+Kwagga,SMITH,Kwagga SMITH,Shizuoka Blue Revs,AWAY,W,28/12,8,,,,,,,53
+Kwagga,SMITH,Kwagga SMITH,Shizuoka Blue Revs,AWAY,W,04/01,7,,,,,,,80
+Kwagga,SMITH,Kwagga SMITH,Shizuoka Blue Revs,AWAY,L,11/01,8,1,,,,5,,80
+Kwagga,SMITH,Kwagga SMITH,Shizuoka Blue Revs,HOME,W,18/01,7,,,,,,,80
+Kwagga,SMITH,Kwagga SMITH,Shizuoka Blue Revs,HOME,L,01/02,7,,,,,,,80
+Kwagga,SMITH,Kwagga SMITH,Shizuoka Blue Revs,AWAY,W,15/02,7,,,,,,,80
+Kwagga,SMITH,Kwagga SMITH,Shizuoka Blue Revs,AWAY,L,22/02,7,,,,,,,80
+Kwagga,SMITH,Kwagga SMITH,Shizuoka Blue Revs,HOME,W,02/03,7,,,,,,,80
+Kwagga,SMITH,Kwagga SMITH,Shizuoka Blue Revs,HOME,W,15/03,7,,,,,,,80
+Kwagga,SMITH,Kwagga SMITH,Shizuoka Blue Revs,HOME,W,22/03,7,2,,,,10,,80
+Kwagga,SMITH,Kwagga SMITH,Shizuoka Blue Revs,AWAY,L,29/03,7,,,,,,,80
+Kwagga,SMITH,Kwagga SMITH,Shizuoka Blue Revs,HOME,W,05/04,7,1,,,,5,,59
+Kwagga,SMITH,Kwagga SMITH,Shizuoka Blue Revs,HOME,W,27/04,20,,,,,,,29
+Kwagga,SMITH,Kwagga SMITH,Shizuoka Blue Revs,HOME,W,03/05,7,,,,,,,62
+Kwagga,SMITH,Kwagga SMITH,Shizuoka Blue Revs,AWAY,W,10/05,7,,,,,,,80
+Kwagga,SMITH,Kwagga SMITH,Shizuoka Blue Revs,HOME,L,17/05,19,,,,,,,40
+Kwagga,SMITH,Kwagga SMITH,South Africa,HOME,W,28/06,20,,,,,,,38
+Kwagga,SMITH,Kwagga SMITH,South Africa,HOME,W,05/07,21,,,,,,,26
+Kwagga,SMITH,Kwagga SMITH,South Africa,HOME,W,19/07,20,,,,,,,47
+Kwagga,SMITH,Kwagga SMITH,South Africa,HOME,L,16/08,20,,,,,,,47
+Kwagga,SMITH,Kwagga SMITH,South Africa,HOME,W,23/08,8,1,,,,5,,80
+Kwagga,SMITH,Kwagga SMITH,South Africa,AWAY,L,06/09,20,,,,,,1,19
+Kwagga,SMITH,Kwagga SMITH,South Africa,AWAY,W,13/09,20,1,,,,5,,22
+Kwagga,SMITH,Kwagga SMITH,South Africa,HOME,W,27/09,20,,,,,,,19
+Kwagga,SMITH,Kwagga SMITH,South Africa,AWAY,W,04/10,20,,,,,,,20
+Bongi,MBONAMBI,Bongi MBONAMBI,Sharks,HOME,W,19/10,2,,,,,,,66
+Bongi,MBONAMBI,Bongi MBONAMBI,Sharks,HOME,W,26/10,2,,,,,,,61
+Bongi,MBONAMBI,Bongi MBONAMBI,South Africa,AWAY,W,10/11,2,,,,,,,45
+Bongi,MBONAMBI,Bongi MBONAMBI,South Africa,AWAY,W,16/11,2,,,,,,,45
+Bongi,MBONAMBI,Bongi MBONAMBI,Sharks,HOME,W,07/12,2,,,,,,,57
+Bongi,MBONAMBI,Bongi MBONAMBI,Sharks,HOME,L,11/01,2,,,,,,,44
+Bongi,MBONAMBI,Bongi MBONAMBI,Sharks,AWAY,L,19/01,2,,,,,,,54
+Bongi,MBONAMBI,Bongi MBONAMBI,Sharks,AWAY,W,25/01,2,2,,,,10,,58
+Bongi,MBONAMBI,Bongi MBONAMBI,Sharks,AWAY,W,15/02,2,,,,,,,36
+Bongi,MBONAMBI,Bongi MBONAMBI,Sharks,AWAY,L,01/03,2,,,,,,,58
+Bongi,MBONAMBI,Bongi MBONAMBI,Sharks,HOME,W,08/03,2,,,,,,,48
+Bongi,MBONAMBI,Bongi MBONAMBI,Sharks,HOME,W,22/03,2,,,,,,,55
+Bongi,MBONAMBI,Bongi MBONAMBI,Sharks,HOME,L,29/03,2,1,,,,5,,66
+Bongi,MBONAMBI,Bongi MBONAMBI,Sharks,AWAY,W,18/04,2,,,,,,,45
+Bongi,MBONAMBI,Bongi MBONAMBI,Sharks,AWAY,W,26/04,2,,,,,,,61
+Bongi,MBONAMBI,Bongi MBONAMBI,Sharks,HOME,W,09/05,2,,,,,,,52
+Bongi,MBONAMBI,Bongi MBONAMBI,Sharks,HOME,W,17/05,2,,,,,,,55
+Bongi,MBONAMBI,Bongi MBONAMBI,Sharks,HOME,D,31/05,2,,,,,,,57
+Bongi,MBONAMBI,Bongi MBONAMBI,Sharks,AWAY,L,07/06,2,,,,,,,54
+Bongi,MBONAMBI,Bongi MBONAMBI,South Africa,HOME,W,05/07,16,,,,,,,33
+Bongi,MBONAMBI,Bongi MBONAMBI,South Africa,HOME,W,19/07,16,,,,,,,36
+Bongi,MBONAMBI,Bongi MBONAMBI,South Africa,HOME,L,16/08,16,,,,,,,21
+Bongi,MBONAMBI,Bongi MBONAMBI,South Africa,AWAY,W,04/10,16,,,,,,,20
+James,LOWE,James LOWE,Leinster,AWAY,W,05/10,11,,,,,,,80
+James,LOWE,James LOWE,Leinster,HOME,W,12/10,11,1,,,,5,,75
+James,LOWE,James LOWE,Leinster,HOME,W,26/10,11,,,,,,,80
+James,LOWE,James LOWE,Ireland,HOME,L,08/11,11,,,,,,,80
+James,LOWE,James LOWE,Ireland,HOME,W,15/11,11,,,,,,,80
+James,LOWE,James LOWE,Ireland,HOME,W,30/11,11,,,,,,,80
+James,LOWE,James LOWE,Leinster,HOME,W,25/01,11,,,,,,,80
+James,LOWE,James LOWE,Ireland,HOME,W,01/02,11,,,,,,,80
+James,LOWE,James LOWE,Ireland,AWAY,W,09/02,11,1,,,,5,,80
+James,LOWE,James LOWE,Ireland,AWAY,W,22/02,11,,,,,,,80
+James,LOWE,James LOWE,Ireland,AWAY,W,15/03,11,,,,,,,80
+James,LOWE,James LOWE,Leinster,HOME,W,05/04,11,2,,,,10,,80
+James,LOWE,James LOWE,Leinster,HOME,W,11/04,11,1,,,,5,,80
+James,LOWE,James LOWE,Leinster,HOME,L,03/05,11,1,,,,5,,80
+James,LOWE,James LOWE,Leinster,HOME,W,10/05,11,1,,,,5,,80
+James,LOWE,James LOWE,Leinster,HOME,W,31/05,11,1,,,,5,,80
+James,LOWE,James LOWE,Leinster,HOME,W,07/06,11,,,,,,,80
+James,LOWE,James LOWE,Leinster,HOME,W,14/06,11,,,,,,,80
+James,LOWE,James LOWE,Lions,AWAY,W,19/07,11,,,,,,,80
+James,LOWE,James LOWE,Lions,AWAY,W,26/07,11,,,,,,,60
+Marco VAN,STADEN,Marco VAN STADEN,Bulls,HOME,W,05/10,6,,,,,,,80
+Marco VAN,STADEN,Marco VAN STADEN,South Africa,AWAY,W,10/11,6,,,,,,,45
+Marco VAN,STADEN,Marco VAN STADEN,South Africa,AWAY,W,23/11,19,,,,,,,20
+Marco VAN,STADEN,Marco VAN STADEN,Bulls,AWAY,L,07/12,6,,,,,,,59
+Marco VAN,STADEN,Marco VAN STADEN,Bulls,HOME,L,15/02,6,,,,,,,40
+Marco VAN,STADEN,Marco VAN STADEN,Bulls,HOME,W,22/02,6,1,,,,5,,80
+Marco VAN,STADEN,Marco VAN STADEN,Bulls,HOME,L,01/03,6,,,,,,,39
+Marco VAN,STADEN,Marco VAN STADEN,Bulls,HOME,W,22/03,20,,,,,,,33
+Marco VAN,STADEN,Marco VAN STADEN,Bulls,HOME,W,29/03,20,1,,,,5,,40
+Marco VAN,STADEN,Marco VAN STADEN,Bulls,AWAY,W,05/04,6,1,,,,5,,45
+Marco VAN,STADEN,Marco VAN STADEN,Bulls,AWAY,L,12/04,20,,,,,,,40
+Marco VAN,STADEN,Marco VAN STADEN,Bulls,AWAY,W,25/04,8,,,,,,,75
+Marco VAN,STADEN,Marco VAN STADEN,Bulls,HOME,W,10/05,20,,,,,,,29
+Marco VAN,STADEN,Marco VAN STADEN,Bulls,HOME,W,31/05,20,,,,,,,38
+Marco VAN,STADEN,Marco VAN STADEN,Bulls,HOME,W,07/06,20,,,,,,,32
+Marco VAN,STADEN,Marco VAN STADEN,Bulls,AWAY,L,14/06,6,,,,,,,80
+Marco VAN,STADEN,Marco VAN STADEN,South Africa,HOME,W,28/06,6,,,,,,,44
+Marco VAN,STADEN,Marco VAN STADEN,South Africa,HOME,W,05/07,6,1,,,,5,,80
+Marco VAN,STADEN,Marco VAN STADEN,South Africa,HOME,W,12/07,6,,,,,,,56
+Marco VAN,STADEN,Marco VAN STADEN,South Africa,HOME,L,16/08,6,,,,,,,68
+Marco VAN,STADEN,Marco VAN STADEN,South Africa,HOME,W,23/08,6,,,,,,,80
+Marco VAN,STADEN,Marco VAN STADEN,South Africa,AWAY,L,06/09,6,,,,,,,75
+Marco VAN,STADEN,Marco VAN STADEN,South Africa,HOME,W,27/09,16,,,,,,,8
+Ox,NCHÉ,Ox NCHÉ,Sharks,HOME,W,19/10,1,,,,,,,68
+Ox,NCHÉ,Ox NCHÉ,Sharks,HOME,W,26/10,1,,,,,,,61
+Ox,NCHÉ,Ox NCHÉ,South Africa,AWAY,W,10/11,1,,,,,,,45
+Ox,NCHÉ,Ox NCHÉ,South Africa,AWAY,W,16/11,1,,,,,,,32
+Ox,NCHÉ,Ox NCHÉ,Sharks,HOME,W,30/11,1,,,,,,,61
+Ox,NCHÉ,Ox NCHÉ,Sharks,HOME,W,07/12,1,,,,,,,52
+Ox,NCHÉ,Ox NCHÉ,Sharks,HOME,W,21/12,1,,,,,,,71
+Ox,NCHÉ,Ox NCHÉ,Sharks,AWAY,L,28/12,1,,,,,,,55
+Ox,NCHÉ,Ox NCHÉ,Sharks,HOME,L,11/01,1,,,,,,,57
+Ox,NCHÉ,Ox NCHÉ,Sharks,AWAY,L,19/01,17,,,,,,,22
+Ox,NCHÉ,Ox NCHÉ,Sharks,HOME,W,08/03,1,,,,,,,48
+Ox,NCHÉ,Ox NCHÉ,Sharks,HOME,W,22/03,1,,,,,,,55
+Ox,NCHÉ,Ox NCHÉ,Sharks,HOME,L,29/03,1,,,,,,,66
+Ox,NCHÉ,Ox NCHÉ,Sharks,AWAY,W,18/04,1,,,,,,,55
+Ox,NCHÉ,Ox NCHÉ,Sharks,AWAY,W,26/04,1,,,,,,,61
+Ox,NCHÉ,Ox NCHÉ,Sharks,HOME,W,17/05,1,,,,,,,55
+Ox,NCHÉ,Ox NCHÉ,Sharks,HOME,D,31/05,1,,,,,,,57
+Ox,NCHÉ,Ox NCHÉ,Sharks,AWAY,L,07/06,1,,,,,,,53
+Ox,NCHÉ,Ox NCHÉ,South Africa,HOME,W,28/06,1,,,,,,,44
+Ox,NCHÉ,Ox NCHÉ,South Africa,HOME,W,05/07,1,,,,,,,47
+Ox,NCHÉ,Ox NCHÉ,South Africa,HOME,W,12/07,17,,,,,,,51
+Ox,NCHÉ,Ox NCHÉ,South Africa,HOME,L,16/08,1,,,,,,,58
+Ox,NCHÉ,Ox NCHÉ,South Africa,HOME,W,23/08,1,,,,,,,70
+Ox,NCHÉ,Ox NCHÉ,South Africa,AWAY,L,06/09,1,,,,,,,67
+Ox,NCHÉ,Ox NCHÉ,South Africa,AWAY,W,13/09,1,,,,,,,41
+Ox,NCHÉ,Ox NCHÉ,South Africa,AWAY,W,04/10,1,,,,,,,49
+Manie,LIBBOK,Manie LIBBOK,Stormers,HOME,L,26/10,10,,,1,2,7,1,70
+Manie,LIBBOK,Manie LIBBOK,South Africa,AWAY,W,16/11,10,,,,2,4,,45
+Manie,LIBBOK,Manie LIBBOK,Stormers,AWAY,L,30/11,23,,,,,,,51
+Manie,LIBBOK,Manie LIBBOK,Stormers,HOME,L,07/12,10,,,,2,4,,71
+Manie,LIBBOK,Manie LIBBOK,Stormers,HOME,W,21/12,10,,,,2,4,,80
+Manie,LIBBOK,Manie LIBBOK,Stormers,HOME,W,28/12,10,1,,,2,9,,80
+Manie,LIBBOK,Manie LIBBOK,Stormers,HOME,W,11/01,10,1,,,4,13,,70
+Manie,LIBBOK,Manie LIBBOK,Stormers,AWAY,L,25/01,10,,,,1,2,,38
+Manie,LIBBOK,Manie LIBBOK,Stormers,HOME,W,16/05,10,,,,,,,54
+Manie,LIBBOK,Manie LIBBOK,Stormers,AWAY,L,30/05,23,,,,,,,51
+Manie,LIBBOK,Manie LIBBOK,South Africa,HOME,W,28/06,22,,,,5,10,,36
+Manie,LIBBOK,Manie LIBBOK,South Africa,HOME,W,12/07,10,,,,5,10,,80
+Manie,LIBBOK,Manie LIBBOK,South Africa,HOME,L,16/08,10,,,1,2,7,,80
+Manie,LIBBOK,Manie LIBBOK,South Africa,AWAY,W,13/09,22,,,1,5,13,,62
+Manie,LIBBOK,Manie LIBBOK,South Africa,HOME,W,27/09,22,1,,,,5,,19
+Manie,LIBBOK,Manie LIBBOK,South Africa,AWAY,W,04/10,22,,,,,,,13
